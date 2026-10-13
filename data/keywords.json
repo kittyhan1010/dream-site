@@ -3,38 +3,512 @@
   {
    "keyword": "용 꿈",
    "category": "동물",
-   "source": "seed",
+   "source": "suggest",
    "added": "2026-09-28"
   },
   {
    "keyword": "호랑이 꿈",
    "category": "동물",
-   "source": "seed",
+   "source": "suggest",
    "added": "2026-09-28"
   },
   {
    "keyword": "개 꿈",
    "category": "동물",
-   "source": "seed",
+   "source": "suggest",
    "added": "2026-09-28"
   },
   {
    "keyword": "강아지 꿈",
    "category": "동물",
-   "source": "seed",
+   "source": "suggest",
    "added": "2026-09-28"
   },
   {
    "keyword": "고양이 꿈",
    "category": "동물",
-   "source": "seed",
+   "source": "suggest",
    "added": "2026-09-28"
   },
   {
    "keyword": "쥐 꿈",
    "category": "동물",
-   "source": "seed",
+   "source": "suggest",
    "added": "2026-09-28"
+  },
+  {
+   "keyword": "초록뱀 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "엄청 큰 뱀 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "검은뱀 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "초록색 뱀 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "흰색 뱀 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "큰 뱀 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "새끼 뱀 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "뱀 나오는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "뱀 죽이는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "뱀 잡는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "수많은 뱀 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "꿈해몽 뱀 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "검정 뱀 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "붉은 뱀 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "검은색 뱀 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "검정색 뱀 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "아기돼지 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "황금돼지 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "검은 돼지 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "돼지 새끼 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "범일동 용 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "태몽 용 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "부산 용 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "울진 용 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "용꿈 돼지 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "큰 호랑이 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "새끼 호랑이 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "사자 호랑이 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "검은 호랑이 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "백호랑이 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "호랑이꿈해몽 쫓기는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "검은 개 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "검은 큰 개 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "하얀 개 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "하얀 큰 개 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "큰 개 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "죽은 개 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "청주 개 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "개 고양이 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "개 3마리 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "개 오줌 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "죽은 강아지 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "새끼 강아지 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "검은 강아지 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "흰 강아지 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "흰색 강아지 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "하얀 강아지 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "아기강아지 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "키우던 강아지 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "강아지 키우는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "강아지 오줌 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "강아지 낳는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "귀여운 강아지 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "갈색 강아지 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "강아지 꿈해몽똥싼 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "강아지 꿈해몽다치는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "새끼고양이 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "아기고양이 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "검은고양이 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "하얀 고양이 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "흰고양이 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "큰 고양이 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "회색 고양이 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "고양이 죽이는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "고양이 나오는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "고양이 죽는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "고양이 입양 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "강아지 고양이 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "고양이 꿈해몽 쫒기는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "고양이 꿈해몽 도망가는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "고양이 꿈해몽 핥는 믄 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "고양이꿈해몽 죽는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "작은 쥐 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "새끼 쥐 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "검은 쥐 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "죽은 쥐 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "하얀 쥐 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "쥐 나오는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
+  },
+  {
+   "keyword": "쥐꿈 해몽 쥐에 관한 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-13"
   },
   {
    "keyword": "물고기 꿈",
@@ -1015,5 +1489,14 @@
   }
  ],
  "failed": [],
- "expanded": []
+ "expanded": [
+  "뱀",
+  "돼지",
+  "용",
+  "호랑이",
+  "개",
+  "강아지",
+  "고양이",
+  "쥐"
+ ]
 }
