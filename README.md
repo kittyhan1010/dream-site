@@ -15,13 +15,13 @@ scripts/save_page.py        Claude가 쓴 원고를 품질 검사 후 저장
 scripts/build.py            dist/ 정적 사이트 빌드
 scripts/generate.py         (선택) API 키로 원고를 생성하는 방식. 품질 검사 기준도 여기 있음
 CLAUDE.md                   Claude가 원고를 쓰는 절차와 작성 원칙
-.github/workflows/daily.yml 새벽 5시(KST) 키워드 발굴, push될 때마다 배포
+.github/workflows/daily.yml 자정 무렵(KST) 키워드 발굴, push될 때마다 배포
 ```
 
 ## 매일 자동으로 일어나는 일
 
-1. **오전 5시, GitHub Actions — 키워드 발굴**: 시드("뱀")로 구글·네이버 자동완성을 조회해 "뱀에게 물리는 꿈"처럼 실제로 검색되는 꿈을 대기열에 넣습니다. 자동완성 키워드가 대기열 맨 앞으로 갑니다. 시드를 다 쓰면 이미 만든 페이지 키워드로 한 단계 더 파고듭니다.
-2. **오전 7시 무렵, Claude 예약 작업 — 원고 작성**: Claude가 `CLAUDE.md`의 절차대로 대기열에서 하루 `pages_per_day`개를 골라 원고를 씁니다. `save_page.py`가 글자 수, 상황별 풀이 개수, FAQ, 제목의 키워드 포함 여부를 검사해 기준 미달 원고는 저장하지 않고, Claude가 고쳐 다시 제출합니다.
+1. **자정 무렵, GitHub Actions — 키워드 발굴**: 시드("뱀")로 구글·네이버 자동완성을 조회해 "뱀에게 물리는 꿈"처럼 실제로 검색되는 꿈을 대기열에 넣습니다. 자동완성 키워드가 대기열 맨 앞으로 갑니다. 시드를 다 쓰면 이미 만든 페이지 키워드로 한 단계 더 파고듭니다.
+2. **새벽 1시 무렵·오전 6시 무렵, Claude 예약 작업 — 원고 작성**: 하루 두 번, Claude가 `CLAUDE.md`의 절차대로 대기열에서 한 번에 `pages_per_day`개를 골라 원고를 씁니다. `save_page.py`가 글자 수, 상황별 풀이 개수, FAQ, 제목의 키워드 포함 여부를 검사해 기준 미달 원고는 저장하지 않고, Claude가 고쳐 다시 제출합니다.
 3. **관련 꿈 연결**: 원고의 '관련 꿈' 중 아직 없는 키워드는 대기열에 들어가 사이트가 스스로 넓어집니다. 이미 있는 페이지끼리는 내부 링크로 이어집니다.
 4. **배포**: Claude가 새 원고를 `main`에 올리면 Actions가 사이트를 빌드해 GitHub Pages에 배포합니다. sitemap.xml, rss.xml도 매번 갱신됩니다.
 
@@ -89,7 +89,7 @@ python3 scripts/next_keywords.py          # 오늘 쓸 키워드 보기
 GA4를 켰다면 `search` 이벤트에서 **결과가 0개였던 검색어**를 확인해 `seeds.txt`에 추가하면, 방문자가 실제로 원하는 꿈부터 채울 수 있습니다.
 
 ## 조정 가능한 값 (config.json → generation)
-- `pages_per_day`: 하루 작성 개수 (기본 5)
+- `pages_per_day`: 한 번 실행할 때 작성 개수 (기본 5, 하루 두 번 실행)
 - `expand_seeds_per_day`: 하루 자동완성 조회할 시드 수 (기본 8)
 - `auto_publish`: `false`로 바꾸면 원고가 `content/drafts/`에 쌓이고, 검토한 파일만 `content/dreams/`로 옮겨 발행합니다.
 - `model`: (API 방식에서만) 사용할 Claude 모델
