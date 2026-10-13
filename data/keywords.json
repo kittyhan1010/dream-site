@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "용 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "호랑이 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "개 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "강아지 꿈",
    "category": "동물",
    "source": "suggest",
@@ -1757,6 +1739,18 @@
    "category": "사건",
    "source": "seed",
    "added": "2026-09-28"
+  },
+  {
+   "keyword": "개에게 물리는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "하늘을 나는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-14"
   }
  ],
  "done": [
@@ -1774,6 +1768,21 @@
    "keyword": "이빨 빠지는 꿈",
    "category": "신체",
    "date": "2026-09-28"
+  },
+  {
+   "keyword": "개 꿈",
+   "category": "동물",
+   "date": "2026-10-14"
+  },
+  {
+   "keyword": "용 꿈",
+   "category": "동물",
+   "date": "2026-10-14"
+  },
+  {
+   "keyword": "호랑이 꿈",
+   "category": "동물",
+   "date": "2026-10-14"
   }
  ],
  "failed": [],
