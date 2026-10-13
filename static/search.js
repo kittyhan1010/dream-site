@@ -3,13 +3,14 @@
   const out = document.getElementById('search-results');
   if (!input || !out) return;
 
+  const base = document.documentElement.dataset.base || '';
   let index = null;
   const norm = (s) => (s || '').replace(/\s+/g, '').replace(/(꿈해몽|해몽|꿈)/g, '');
 
   async function load() {
     if (index) return index;
     try {
-      const res = await fetch('/search-index.json');
+      const res = await fetch(base + '/search-index.json');
       index = (await res.json()).map((d) => ({ ...d, nk: norm(d.k), na: norm(d.a) }));
     } catch (e) {
       index = [];

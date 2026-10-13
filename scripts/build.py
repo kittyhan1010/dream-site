@@ -3,9 +3,10 @@
 import hashlib
 import html
 import json
+import re
 import shutil
 from collections import defaultdict
-from urllib.parse import unquote
+from urllib.parse import unquote, urlparse
 
 from common import (CATEGORIES, CONTENT_DIR, DIST, STATIC_DIR, category_path, compact,
                     dream_path, load_config, load_dreams, today)
@@ -45,6 +46,8 @@ class Site:
     def __init__(self):
         self.cfg = load_config()
         self.url = self.cfg["site_url"].rstrip("/")
+        # 사이트가 하위 경로(예: github.io/dream-site)에 있으면 내부 링크 앞에 붙임
+        self.base = urlparse(self.url).path.rstrip("/")
         self.name = self.cfg["site_name"]
         self.dreams = sorted(load_dreams(), key=lambda d: d["keyword"])
         self.by_compact = {compact(d["keyword"]): d for d in self.dreams}
@@ -57,12 +60,20 @@ class Site:
 
     # ---------- 공통 ----------
 
+    def fix_links(self, html_text: str) -> str:
+        """사이트 안쪽 링크(/로 시작)에 하위 경로를 붙임. 외부 링크(//, https://)는 그대로."""
+        if not self.base:
+            return html_text
+        for attr in ('href="', 'src="'):
+            html_text = re.sub(rf'{attr}/(?!/)', f'{attr}{self.base}/', html_text)
+        return html_text
+
     def write(self, rel: str, content: str, lastmod: str = None, sitemap: bool = True):
         path = DIST / unquote(rel).lstrip("/")  # 디스크에는 한글 그대로 저장
         if rel.endswith("/"):
             path = path / "index.html"
         path.parent.mkdir(parents=True, exist_ok=True)
-        path.write_text(content, encoding="utf-8")
+        path.write_text(self.fix_links(content), encoding="utf-8")
         if sitemap and rel.endswith("/"):
             self.urls.append((rel, lastmod or today()))
 
@@ -98,7 +109,7 @@ class Site:
             ld = f'<script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script>'
         robots = '<meta name="robots" content="noindex">' if noindex else ""
         return f"""<!doctype html>
-<html lang="ko">
+<html lang="ko" data-base="{E(self.base)}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -321,14 +332,14 @@ class Site:
 
         body = """<section class="block plain"><h1>찾는 페이지가 없어요</h1>
 <p>주소가 바뀌었거나 아직 풀이하지 않은 꿈이에요. <a href="/#find">꿈 찾기</a>에서 다른 단어로 찾아 보세요.</p></section>"""
-        (DIST / "404.html").write_text(self.page(path="/404.html", title=f"페이지 없음 | {self.name}",
+        (DIST / "404.html").write_text(self.fix_links(self.page(path="/404.html", title=f"페이지 없음 | {self.name}",
                                                  description="페이지를 찾을 수 없습니다.", body=body,
-                                                 noindex=True), encoding="utf-8")
+                                                 noindex=True)), encoding="utf-8")
 
     # ---------- 부가 파일 ----------
 
     def build_files(self):
-        index = [{"k": d["keyword"], "u": dream_path(d["slug"]), "s": d["summary"], "f": d["fortune"],
+        index = [{"k": d["keyword"], "u": self.base + dream_path(d["slug"]), "s": d["summary"], "f": d["fortune"],
                   "a": " ".join(s["title"] for s in d["situations"])} for d in self.dreams]
         (DIST / "search-index.json").write_text(json.dumps(index, ensure_ascii=False), encoding="utf-8")
 
