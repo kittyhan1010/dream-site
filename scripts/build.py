@@ -171,7 +171,7 @@ class Site:
         sit_html = []
         for i, s in enumerate(d["situations"]):
             sit_html.append(
-                f'<section class="situation"><h3>{moon(s["fortune"], 20)}{E(s["title"])}'
+                f'<section class="situation" id="s-{i + 1}"><h3>{moon(s["fortune"], 20)}{E(s["title"])}'
                 f'<span class="tag">{E(s["fortune"])}</span></h3><p>{E(s["meaning"])}</p></section>')
             if i == 2:
                 sit_html.append(self.ad("article_mid"))
@@ -340,7 +340,7 @@ class Site:
 
     def build_files(self):
         index = [{"k": d["keyword"], "u": self.base + dream_path(d["slug"]), "s": d["summary"], "f": d["fortune"],
-                  "a": " ".join(s["title"] for s in d["situations"])} for d in self.dreams]
+                  "a": [s["title"] for s in d["situations"]]} for d in self.dreams]
         (DIST / "search-index.json").write_text(json.dumps(index, ensure_ascii=False), encoding="utf-8")
 
         urls = "".join(f"<url><loc>{E(self.url + p)}</loc><lastmod>{m}</lastmod></url>" for p, m in self.urls)
