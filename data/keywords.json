@@ -37,6 +37,54 @@
    "added": "2026-09-28"
   },
   {
+   "keyword": "물고기 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "잉어 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "거북이 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "새 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "까치 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "까마귀 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "닭 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "소 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
    "keyword": "초록뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -511,52 +559,292 @@
    "added": "2026-10-13"
   },
   {
-   "keyword": "물고기 꿈",
+   "keyword": "큰 물고기 꿈",
    "category": "동물",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-14"
   },
   {
-   "keyword": "잉어 꿈",
+   "keyword": "죽은 물고기 꿈",
    "category": "동물",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-14"
   },
   {
-   "keyword": "거북이 꿈",
+   "keyword": "어항 물고기 꿈",
    "category": "동물",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-14"
   },
   {
-   "keyword": "새 꿈",
+   "keyword": "황금물고기 꿈",
    "category": "동물",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-14"
   },
   {
-   "keyword": "까치 꿈",
+   "keyword": "작은 물고기 꿈",
    "category": "동물",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-14"
   },
   {
-   "keyword": "까마귀 꿈",
+   "keyword": "물고기 잡는 꿈",
    "category": "동물",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-14"
   },
   {
-   "keyword": "닭 꿈",
+   "keyword": "수족관 물고기 꿈",
    "category": "동물",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-14"
   },
   {
-   "keyword": "소 꿈",
+   "keyword": "비단 잉어 꿈",
    "category": "동물",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "황금 잉어 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "큰 잉어 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "잉어 꿈 줍는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "큰 거북이 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "바다거북이 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "거북이 꿈보는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "거북이 꿈해몽 죽이는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "거북이 꿈해몽 풀어주는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "새 신발 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "새 나오는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "큰 새 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "검은새 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "새 자동차 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "까치 나오는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "까치 떼 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "까치 잡는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "까치 가 죽는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "죽은 까치 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "까마귀 까치 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "새끼 까치 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "물까치 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "까치꿈 나오는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "까마귀 죽는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "검은 까마귀 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "큰 까마귀 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "흰 까마귀 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "꿈속 에서 까마귀 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "새끼 까마귀 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "검은 닭 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "죽은 닭 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "하얀 닭 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "삶은 닭 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "많은 닭 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "양산동 닭 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "닭꿈안는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "검은 소 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "누런 소 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "하얀 소 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "죽은 소 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "소 꿈 이사가는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-14"
   },
   {
    "keyword": "말 꿈",
@@ -1497,6 +1785,14 @@
   "개",
   "강아지",
   "고양이",
-  "쥐"
+  "쥐",
+  "물고기",
+  "잉어",
+  "거북이",
+  "새",
+  "까치",
+  "까마귀",
+  "닭",
+  "소"
  ]
 }
