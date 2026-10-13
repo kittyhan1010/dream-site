@@ -89,7 +89,7 @@ python3 scripts/next_keywords.py          # 오늘 쓸 키워드 보기
 GA4를 켰다면 `search` 이벤트에서 **결과가 0개였던 검색어**를 확인해 `seeds.txt`에 추가하면, 방문자가 실제로 원하는 꿈부터 채울 수 있습니다.
 
 ## 조정 가능한 값 (config.json → generation)
-- `pages_per_day`: 한 번 실행할 때 작성 개수 (기본 5, 하루 두 번 실행)
+- `pages_per_day`: 한 번 실행할 때 작성 개수 (기본 3, 하루 두 번 실행 → 하루 6개)
 - `expand_seeds_per_day`: 하루 자동완성 조회할 시드 수 (기본 8)
 - `auto_publish`: `false`로 바꾸면 원고가 `content/drafts/`에 쌓이고, 검토한 파일만 `content/dreams/`로 옮겨 발행합니다.
 - `model`: (API 방식에서만) 사용할 Claude 모델

@@ -17,7 +17,7 @@
 
   "generation": {
     "model": "claude-sonnet-5",
-    "pages_per_day": 5,
+    "pages_per_day": 3,
     "expand_seeds_per_day": 8,
     "auto_publish": true
   }
