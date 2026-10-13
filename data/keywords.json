@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "강아지 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "고양이 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "쥐 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "물고기 꿈",
    "category": "동물",
    "source": "suggest",
@@ -1751,6 +1733,36 @@
    "category": "동물",
    "source": "related",
    "added": "2026-10-14"
+  },
+  {
+   "keyword": "고양이에게 물리는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "강아지 입양하는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "강아지 잃어버리는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "쥐에게 물리는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-14"
+  },
+  {
+   "keyword": "흰 쥐 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-14"
   }
  ],
  "done": [
@@ -1781,6 +1793,21 @@
   },
   {
    "keyword": "호랑이 꿈",
+   "category": "동물",
+   "date": "2026-10-14"
+  },
+  {
+   "keyword": "고양이 꿈",
+   "category": "동물",
+   "date": "2026-10-14"
+  },
+  {
+   "keyword": "강아지 꿈",
+   "category": "동물",
+   "date": "2026-10-14"
+  },
+  {
+   "keyword": "쥐 꿈",
    "category": "동물",
    "date": "2026-10-14"
   }
