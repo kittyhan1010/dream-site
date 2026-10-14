@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "새 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "까치 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "까마귀 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "닭 꿈",
    "category": "동물",
    "source": "suggest",
@@ -1967,6 +1949,24 @@
    "category": "동물",
    "source": "related",
    "added": "2026-10-15"
+  },
+  {
+   "keyword": "독수리 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-15"
+  },
+  {
+   "keyword": "손님이 오는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-15"
+  },
+  {
+   "keyword": "참새 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-15"
   }
  ],
  "done": [
@@ -2027,6 +2027,21 @@
   },
   {
    "keyword": "거북이 꿈",
+   "category": "동물",
+   "date": "2026-10-15"
+  },
+  {
+   "keyword": "까마귀 꿈",
+   "category": "동물",
+   "date": "2026-10-15"
+  },
+  {
+   "keyword": "까치 꿈",
+   "category": "동물",
+   "date": "2026-10-15"
+  },
+  {
+   "keyword": "새 꿈",
    "category": "동물",
    "date": "2026-10-15"
   }
