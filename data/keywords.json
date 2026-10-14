@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "물고기 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "잉어 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "거북이 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "새 꿈",
    "category": "동물",
    "source": "suggest",
@@ -1961,6 +1943,30 @@
    "category": "동물",
    "source": "related",
    "added": "2026-10-14"
+  },
+  {
+   "keyword": "낚시 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-15"
+  },
+  {
+   "keyword": "연못 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-15"
+  },
+  {
+   "keyword": "시험 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-15"
+  },
+  {
+   "keyword": "자라 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-15"
   }
  ],
  "done": [
@@ -2008,6 +2014,21 @@
    "keyword": "쥐 꿈",
    "category": "동물",
    "date": "2026-10-14"
+  },
+  {
+   "keyword": "물고기 꿈",
+   "category": "동물",
+   "date": "2026-10-15"
+  },
+  {
+   "keyword": "잉어 꿈",
+   "category": "동물",
+   "date": "2026-10-15"
+  },
+  {
+   "keyword": "거북이 꿈",
+   "category": "동물",
+   "date": "2026-10-15"
   }
  ],
  "failed": [],
