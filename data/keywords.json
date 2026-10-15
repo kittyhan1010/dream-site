@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "곰 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "사자 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "원숭이 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "거미 꿈",
    "category": "동물",
    "source": "suggest",
@@ -2285,6 +2267,42 @@
    "category": "동물",
    "source": "related",
    "added": "2026-10-16"
+  },
+  {
+   "keyword": "꿀 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "태몽 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "표범 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "맹수에게 쫓기는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "고릴라 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "바나나 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-16"
   }
  ],
  "done": [
@@ -2375,6 +2393,21 @@
   },
   {
    "keyword": "말 꿈",
+   "category": "동물",
+   "date": "2026-10-16"
+  },
+  {
+   "keyword": "곰 꿈",
+   "category": "동물",
+   "date": "2026-10-16"
+  },
+  {
+   "keyword": "사자 꿈",
+   "category": "동물",
+   "date": "2026-10-16"
+  },
+  {
+   "keyword": "원숭이 꿈",
    "category": "동물",
    "date": "2026-10-16"
   }
