@@ -61,6 +61,54 @@
    "added": "2026-09-28"
   },
   {
+   "keyword": "구렁이 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "악어 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "상어 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "고래 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "토끼 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "여우 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "늑대 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "코끼리 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
    "keyword": "초록뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -1021,52 +1069,298 @@
    "added": "2026-10-15"
   },
   {
-   "keyword": "구렁이 꿈",
+   "keyword": "엄청 큰 구렁이 꿈",
    "category": "동물",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-16"
   },
   {
-   "keyword": "악어 꿈",
+   "keyword": "검은 구렁이 꿈",
    "category": "동물",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-16"
   },
   {
-   "keyword": "상어 꿈",
+   "keyword": "큰 구렁이 꿈",
    "category": "동물",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-16"
   },
   {
-   "keyword": "고래 꿈",
+   "keyword": "노란 구렁이 꿈",
    "category": "동물",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-16"
   },
   {
-   "keyword": "토끼 꿈",
+   "keyword": "황금구렁이 꿈",
    "category": "동물",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-16"
   },
   {
-   "keyword": "여우 꿈",
+   "keyword": "새끼 악어 꿈",
    "category": "동물",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-16"
   },
   {
-   "keyword": "늑대 꿈",
+   "keyword": "악어꿈 피 꿈",
    "category": "동물",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-16"
   },
   {
-   "keyword": "코끼리 꿈",
+   "keyword": "악어꿈 로또 꿈",
    "category": "동물",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "악어꿈 악어 본 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "거대한 상어 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "고래 상어 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "철갑 상어 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "큰 상어 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "죽은 상어 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "새끼 상어 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "엄청 큰 상어 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "상어꿈 피나는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "엄청 큰 고래 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "큰 고래 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "혹등고래 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "대왕고래 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "흰 토끼 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "갈색 토끼 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "검은 토끼 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "새끼 토끼 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "토끼꿈 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "토끼꿈내보내는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "토끼 죽이는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "흰 여우 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "붉은 여우 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "새끼 여우 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "검은 여우 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "사막 여우 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "큰 여우 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "북극 여우 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "여우 꿈에나오는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "하얀 늑대 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "검은 늑대 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "새끼 늑대 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "회색 늑대 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "레데리2 늑대 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "레데리 늑대 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "큰 늑대 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "아기 코끼리 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "새끼 코끼리 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "많은 코끼리 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "흰 코끼리 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "치이카와 코끼리 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "코끼리꿈 돌고래 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-16"
   },
   {
    "keyword": "사슴 꿈",
@@ -2071,6 +2365,14 @@
   "거미",
   "벌",
   "나비",
-  "지네"
+  "지네",
+  "구렁이",
+  "악어",
+  "상어",
+  "고래",
+  "토끼",
+  "여우",
+  "늑대",
+  "코끼리"
  ]
 }
