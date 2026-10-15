@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "닭 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "소 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "말 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "곰 꿈",
    "category": "동물",
    "source": "suggest",
@@ -2261,6 +2243,48 @@
    "category": "동물",
    "source": "related",
    "added": "2026-10-15"
+  },
+  {
+   "keyword": "달걀 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "병아리 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "오리 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "송아지 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "황소 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "백마 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-16"
+  },
+  {
+   "keyword": "얼룩말 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-16"
   }
  ],
  "done": [
@@ -2338,6 +2362,21 @@
    "keyword": "새 꿈",
    "category": "동물",
    "date": "2026-10-15"
+  },
+  {
+   "keyword": "닭 꿈",
+   "category": "동물",
+   "date": "2026-10-16"
+  },
+  {
+   "keyword": "소 꿈",
+   "category": "동물",
+   "date": "2026-10-16"
+  },
+  {
+   "keyword": "말 꿈",
+   "category": "동물",
+   "date": "2026-10-16"
   }
  ],
  "failed": [],
