@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "거미 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "벌 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "나비 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "지네 꿈",
    "category": "동물",
    "source": "suggest",
@@ -2692,6 +2674,21 @@
    "keyword": "원숭이 꿈",
    "category": "동물",
    "date": "2026-10-16"
+  },
+  {
+   "keyword": "벌 꿈",
+   "category": "동물",
+   "date": "2026-10-17"
+  },
+  {
+   "keyword": "나비 꿈",
+   "category": "동물",
+   "date": "2026-10-17"
+  },
+  {
+   "keyword": "거미 꿈",
+   "category": "동물",
+   "date": "2026-10-17"
   }
  ],
  "failed": [],
