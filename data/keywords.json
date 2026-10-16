@@ -73,6 +73,54 @@
    "added": "2026-09-28"
   },
   {
+   "keyword": "사슴 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "쥐떼 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "벌레 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "구더기 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "돌아가신 할머니 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "돌아가신 아버지 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "돌아가신 어머니 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "엄마 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
    "keyword": "초록뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -1327,52 +1375,286 @@
    "added": "2026-10-16"
   },
   {
-   "keyword": "사슴 꿈",
+   "keyword": "아기 사슴 꿈",
    "category": "동물",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-17"
   },
   {
-   "keyword": "쥐떼 꿈",
+   "keyword": "흰 사슴 꿈",
    "category": "동물",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-17"
   },
   {
-   "keyword": "벌레 꿈",
+   "keyword": "큰 사슴 꿈",
    "category": "동물",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-17"
   },
   {
-   "keyword": "구더기 꿈",
+   "keyword": "죽은 사슴 꿈",
    "category": "동물",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-17"
   },
   {
-   "keyword": "돌아가신 할머니 꿈",
-   "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
+   "keyword": "수사슴 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-17"
   },
   {
-   "keyword": "돌아가신 아버지 꿈",
-   "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
+   "keyword": "쥐떼 가 나오는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-17"
   },
   {
-   "keyword": "돌아가신 어머니 꿈",
-   "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
+   "keyword": "쥐떼 를 보는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-17"
   },
   {
-   "keyword": "엄마 꿈",
+   "keyword": "쥐떼가 죽는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "쥐떼를 죽이는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "죽은 쥐떼 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "무당 벌레 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "집안 에 벌레 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "사슴벌레 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "집에 벌레 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "벌레 죽이는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "화장실 벌레 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "꿈해몽 벌레 잡는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "흰 구더기 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "방안 에 구더기 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "음식에 구더기 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "하얀 구더기 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "옷 에 구더기 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "구더기꿈나오는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "돌아가신 할머니 나오는 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "돌아가신 할머니 할아버지 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "돌아가신 할머니 장례식 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "돌아가신 할머니 가 보이는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "꿈속 에 돌아가신 할머니 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "돌아가신 할머니 꿈 아픈 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "돌아가신 아버지 가 나오는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "돌아가신 친정 아버지 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "돌아가신 아버지 를 만나는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "꿈 에 돌아가신 아버지 를 본 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "꿈에 돌아가신 아버지 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "돌아가신 아버지 꿈아픈 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "돌아가신 아버지 꿈울었던 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "돌아가신 아버지 식사 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "돌아가신 어머니 가 나오는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "돌아가신 어머니 가 보이는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "돌아가신 어머니 가 아픈 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "돌아가신 어머니 가 주무시는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "돌아가신 어머니 꿈 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "돌아가신 엄마 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "살아 계신 엄마 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "친정 엄마 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "죽은 엄마 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
+  },
+  {
+   "keyword": "엄마 꿈에 나오는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-17"
   },
   {
    "keyword": "아빠 꿈",
@@ -2445,6 +2727,14 @@
   "토끼",
   "여우",
   "늑대",
-  "코끼리"
+  "코끼리",
+  "사슴",
+  "쥐떼",
+  "벌레",
+  "구더기",
+  "돌아가신 할머니",
+  "돌아가신 아버지",
+  "돌아가신 어머니",
+  "엄마"
  ]
 }
