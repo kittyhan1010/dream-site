@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "지네 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "구렁이 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "악어 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "상어 꿈",
    "category": "동물",
    "source": "suggest",
@@ -2879,6 +2861,24 @@
    "category": "동물",
    "source": "related",
    "added": "2026-10-16"
+  },
+  {
+   "keyword": "황금 뱀 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "흰 뱀 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "바퀴벌레 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-18"
   }
  ],
  "done": [
@@ -3001,6 +3001,21 @@
    "keyword": "거미 꿈",
    "category": "동물",
    "date": "2026-10-17"
+  },
+  {
+   "keyword": "구렁이 꿈",
+   "category": "동물",
+   "date": "2026-10-18"
+  },
+  {
+   "keyword": "악어 꿈",
+   "category": "동물",
+   "date": "2026-10-18"
+  },
+  {
+   "keyword": "지네 꿈",
+   "category": "동물",
+   "date": "2026-10-18"
   }
  ],
  "failed": [],
