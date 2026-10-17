@@ -103,6 +103,54 @@
    "added": "2026-09-28"
   },
   {
+   "keyword": "아빠 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "전남친 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "전여친 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "연예인 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "대통령 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "아기 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "임신 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "쌍둥이 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
    "keyword": "초록뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -1639,52 +1687,316 @@
    "added": "2026-10-17"
   },
   {
-   "keyword": "아빠 꿈",
+   "keyword": "돌아가신 친정 아빠 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-18"
   },
   {
-   "keyword": "전남친 꿈",
+   "keyword": "돌아가신 아빠 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-18"
   },
   {
-   "keyword": "전여친 꿈",
+   "keyword": "돌아가신 엄마 아빠 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-18"
   },
   {
-   "keyword": "연예인 꿈",
+   "keyword": "돌아가신 큰 아빠 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-18"
   },
   {
-   "keyword": "대통령 꿈",
+   "keyword": "티미 아빠 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-18"
   },
   {
-   "keyword": "아기 꿈",
+   "keyword": "짱구 아빠 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-18"
   },
   {
-   "keyword": "임신 꿈",
+   "keyword": "새 아빠 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-18"
   },
   {
-   "keyword": "쌍둥이 꿈",
+   "keyword": "죽은 아빠 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "아빠 꿈 안좋은 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "아빠꿈정리드 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "전남친 꿈 계속 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "전남친 꿈에 나오는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "전남친 연락 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "전남친 꿈해몽 싸우는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "좋아하는 연예인 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "유명 연예인 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "연예인 나오는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "연예인 보는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "연예인 만나는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "연예인 꿈해몽 손잡는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "전직 대통령 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "전 대통령 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "현직 대통령 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "트럼프 대통령 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "대통령 나오는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "대통령 보는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "외국 대통령 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "이재명 대통령 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "미국 대통령 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "박근혜 대통령 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "아기 낳는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "아기 젖먹이는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "아기 안는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "아기 기저귀 갈아주는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "아기 똥 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "똑똑한 아기 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "꿈해몽 아기 낳는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "원치않는 임신 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "원하지 않는 임신 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "쌍둥이 임신 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "혼전임신 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "만삭 임신 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "임신 꿈해몽소 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "임신꿈 피 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "임신 태동 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "쌍둥이 낳는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "쌍둥이 임신 하는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "세 쌍둥이 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "네 쌍둥이 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "다섯 쌍둥이 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "여섯 쌍둥이 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
+  },
+  {
+   "keyword": "4 쌍둥이 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-18"
   },
   {
    "keyword": "친구 꿈",
@@ -2732,6 +3044,14 @@
   "돌아가신 할머니",
   "돌아가신 아버지",
   "돌아가신 어머니",
-  "엄마"
+  "엄마",
+  "아빠",
+  "전남친",
+  "전여친",
+  "연예인",
+  "대통령",
+  "아기",
+  "임신",
+  "쌍둥이"
  ]
 }
