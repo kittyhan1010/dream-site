@@ -115,6 +115,42 @@
    "added": "2026-09-28"
   },
   {
+   "keyword": "친구 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "모르는 사람 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "귀신 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "스님 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "왕 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "짝사랑 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
    "keyword": "초록뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -1963,43 +1999,271 @@
    "added": "2026-10-18"
   },
   {
-   "keyword": "친구 꿈",
+   "keyword": "친구 꿈에서 내가 죽는 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-19"
   },
   {
-   "keyword": "모르는 사람 꿈",
+   "keyword": "친구 꿈에 내가 나오는 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-19"
   },
   {
-   "keyword": "귀신 꿈",
+   "keyword": "연락이 끊긴 친구 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-19"
   },
   {
-   "keyword": "스님 꿈",
+   "keyword": "전 여자 친구 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-19"
   },
   {
-   "keyword": "왕 꿈",
+   "keyword": "손절한 친구 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "옛 친구 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "멀어진 친구 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "남자친구 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "옛날 친구 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "전남자친구 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "죽은 친구 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "고등학교 친구 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "절교한 친구 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "모르는 사람 이 죽는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "모르는 사람 무덤 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "모르는 사람 죽이는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "모르는 사람 과 싸우는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "모르는 사람 이랑 연애하는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "모르는 사람 에게 쫓기는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "모르는 사람 교통사고 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "집에 모르는 사람 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "모르는 사람꿈에 나오는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "귀신 꿈을 자주 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "나꿍꼬또귀신 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "귀신 보는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "남자 스님 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "여자 스님 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "삼청 스님 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "유명한 스님 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "비구니 스님 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "돌아가신 스님 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "법륜 스님 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "절 스님 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "스님 꿈 담 쌓는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "스님꿈에보이는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "스님꿈에웃는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "짝사랑 하는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "옛 짝사랑 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "짝사랑 꿈에 나오는 꿈",
+   "category": "사람",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "앞이빨 빠지는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "썩은 이빨 빠지는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "금이빨 빠지는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "흔들리는 이빨 빠지는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-19"
+  },
+  {
+   "keyword": "강아지 이빨 빠지는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-19"
   },
   {
    "keyword": "결혼한 사람 꿈",
-   "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "짝사랑 꿈",
    "category": "사람",
    "source": "seed",
    "added": "2026-09-28"
@@ -3076,6 +3340,14 @@
   "대통령",
   "아기",
   "임신",
-  "쌍둥이"
+  "쌍둥이",
+  "친구",
+  "모르는 사람",
+  "귀신",
+  "스님",
+  "왕",
+  "결혼한 사람",
+  "짝사랑",
+  "이빨 빠지는"
  ]
 }
