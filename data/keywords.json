@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "사슴 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "쥐떼 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "벌레 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "구더기 꿈",
    "category": "동물",
    "source": "suggest",
@@ -3143,6 +3125,18 @@
    "category": "동물",
    "source": "related",
    "added": "2026-10-19"
+  },
+  {
+   "keyword": "노루 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "뿔 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-20"
   }
  ],
  "done": [
@@ -3310,6 +3304,21 @@
    "keyword": "늑대 꿈",
    "category": "동물",
    "date": "2026-10-19"
+  },
+  {
+   "keyword": "벌레 꿈",
+   "category": "동물",
+   "date": "2026-10-20"
+  },
+  {
+   "keyword": "사슴 꿈",
+   "category": "동물",
+   "date": "2026-10-20"
+  },
+  {
+   "keyword": "쥐떼 꿈",
+   "category": "동물",
+   "date": "2026-10-20"
   }
  ],
  "failed": [],
