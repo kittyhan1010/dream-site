@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "구더기 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "돌아가신 할머니 꿈",
-   "category": "사람",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "돌아가신 아버지 꿈",
-   "category": "사람",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "돌아가신 어머니 꿈",
    "category": "사람",
    "source": "suggest",
@@ -3533,6 +3515,30 @@
    "category": "동물",
    "source": "related",
    "added": "2026-10-20"
+  },
+  {
+   "keyword": "파리 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "시체 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "조상 꿈",
+   "category": "사람",
+   "source": "related",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "제사 꿈",
+   "category": "사람",
+   "source": "related",
+   "added": "2026-10-20"
   }
  ],
  "done": [
@@ -3714,6 +3720,21 @@
   {
    "keyword": "쥐떼 꿈",
    "category": "동물",
+   "date": "2026-10-20"
+  },
+  {
+   "keyword": "구더기 꿈",
+   "category": "동물",
+   "date": "2026-10-20"
+  },
+  {
+   "keyword": "돌아가신 아버지 꿈",
+   "category": "사람",
+   "date": "2026-10-20"
+  },
+  {
+   "keyword": "돌아가신 할머니 꿈",
+   "category": "사람",
    "date": "2026-10-20"
   }
  ],
