@@ -115,6 +115,60 @@
    "added": "2026-09-28"
   },
   {
+   "keyword": "피 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "머리카락 자르는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "손톱 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "눈물 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "똥 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "오줌 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "대변 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "코피 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
    "keyword": "초록뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -2227,56 +2281,404 @@
    "added": "2026-10-19"
   },
   {
+   "keyword": "생리 피 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "다른사람 피 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "바닥 에 피 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "검은 피 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "동물 피 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "손가락 피 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "피꿈 다친 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "피 묻은 생리대 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "꿈 에서 머리카락 자르는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "스스로 머리카락 자르는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "남의 머리카락 자르는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "다른 사람 머리카락 자르는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "내 머리카락 자르는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "앞 머리카락 자르는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "자기 머리카락 자르는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "상한 머리카락 자르는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "손톱 꾸미는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "남의 손톱 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "엄지 손톱 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "깎은 손톱 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "긴 손톱 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "검은 손톱 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "손톱 꾸밈받는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "손톱 꿈 부려지는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "손톱꾸민 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "손톱 깎는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "손톱 빠지는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "눈물 흘리는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "검은 눈물 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "고양이 눈물 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "붕스 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "스타레일 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "변기 똥 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "강아지 똥 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "고양이 똥 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "돼지 똥 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "변기에 똥 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "똥 보는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "똥 싼 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "하얀 똥 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "검은 똥 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "굵은 똥 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "꿈해몽 똥 누는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "똥꿈해몽넘치는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "똥꿈해몽 치우는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "똥꿈해몽 풀이아기 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "피 오줌 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "남자 아이 오줌 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "아기 오줌 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "오줌 맞는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "노란 오줌 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "대변 보는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "대변 누는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "대변 지리 는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "대변 닦는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "변기에 대변 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "화장실 대변 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "대변꿈 만진 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "대변꿈 잘안되는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "코피 나는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "코피 흘리는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "코피 쏟는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "쌍 코피 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "검은 코피 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "꿈에서 코피 나는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
+   "keyword": "코피 꿈 물로 씻는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-20"
+  },
+  {
    "keyword": "결혼한 사람 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "피 꿈",
-   "category": "신체",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "머리카락 자르는 꿈",
-   "category": "신체",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "손톱 꿈",
-   "category": "신체",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "눈물 꿈",
-   "category": "신체",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "똥 꿈",
-   "category": "신체",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "오줌 꿈",
-   "category": "신체",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "대변 꿈",
-   "category": "신체",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "코피 꿈",
-   "category": "신체",
    "source": "seed",
    "added": "2026-09-28"
   },
@@ -2744,12 +3146,6 @@
   },
   {
    "keyword": "싸우는 꿈",
-   "category": "행동",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "우는 꿈",
    "category": "행동",
    "source": "seed",
    "added": "2026-09-28"
@@ -3378,6 +3774,14 @@
   "왕",
   "결혼한 사람",
   "짝사랑",
-  "이빨 빠지는"
+  "이빨 빠지는",
+  "피",
+  "머리카락 자르는",
+  "손톱",
+  "눈물",
+  "똥",
+  "오줌",
+  "대변",
+  "코피"
  ]
 }
