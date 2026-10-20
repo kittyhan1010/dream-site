@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "돌아가신 어머니 꿈",
-   "category": "사람",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "엄마 꿈",
-   "category": "사람",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "아빠 꿈",
-   "category": "사람",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "전남친 꿈",
    "category": "사람",
    "source": "suggest",
@@ -3827,6 +3809,12 @@
    "category": "사람",
    "source": "related",
    "added": "2026-10-20"
+  },
+  {
+   "keyword": "가족 꿈",
+   "category": "사람",
+   "source": "related",
+   "added": "2026-10-21"
   }
  ],
  "done": [
@@ -4024,6 +4012,21 @@
    "keyword": "돌아가신 할머니 꿈",
    "category": "사람",
    "date": "2026-10-20"
+  },
+  {
+   "keyword": "돌아가신 어머니 꿈",
+   "category": "사람",
+   "date": "2026-10-21"
+  },
+  {
+   "keyword": "엄마 꿈",
+   "category": "사람",
+   "date": "2026-10-21"
+  },
+  {
+   "keyword": "아빠 꿈",
+   "category": "사람",
+   "date": "2026-10-21"
   }
  ],
  "failed": [],
