@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "전남친 꿈",
-   "category": "사람",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "전여친 꿈",
-   "category": "사람",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "연예인 꿈",
-   "category": "사람",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "대통령 꿈",
    "category": "사람",
    "source": "suggest",
@@ -3815,6 +3797,30 @@
    "category": "사람",
    "source": "related",
    "added": "2026-10-21"
+  },
+  {
+   "keyword": "결혼식 꿈",
+   "category": "사람",
+   "source": "related",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "선물 받는 꿈",
+   "category": "사람",
+   "source": "related",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "첫사랑 꿈",
+   "category": "사람",
+   "source": "related",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "이별하는 꿈",
+   "category": "사람",
+   "source": "related",
+   "added": "2026-10-21"
   }
  ],
  "done": [
@@ -4025,6 +4031,21 @@
   },
   {
    "keyword": "아빠 꿈",
+   "category": "사람",
+   "date": "2026-10-21"
+  },
+  {
+   "keyword": "연예인 꿈",
+   "category": "사람",
+   "date": "2026-10-21"
+  },
+  {
+   "keyword": "전남친 꿈",
+   "category": "사람",
+   "date": "2026-10-21"
+  },
+  {
+   "keyword": "전여친 꿈",
    "category": "사람",
    "date": "2026-10-21"
   }
