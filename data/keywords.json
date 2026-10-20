@@ -151,6 +151,60 @@
    "added": "2026-09-28"
   },
   {
+   "keyword": "다리 다치는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "배 아픈 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "얼굴 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "물 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "불 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "바다 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "홍수 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "비 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "불나는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
    "keyword": "초록뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -2659,56 +2713,296 @@
    "added": "2026-10-20"
   },
   {
+   "keyword": "다른 사람 다리 다치는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "강아지 다리 다치는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "가족이 다리 다치는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "엄마가 다리 다치는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "친구 다리 다치는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "왼쪽 다리 다치는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "오른쪽 다리 다치는 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "상대방 얼굴 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "자기 얼굴 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "다른 사람 얼굴 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "모르는 사람 얼굴 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "남편 얼굴 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "얼굴 피부 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "얼굴 상처 꿈",
+   "category": "신체",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "집안 에 물 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "황토 물 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "더러운 물 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "검은 물 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "변기 맑은 물 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "맑은 물 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "물 꿈 비 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "홍수나는 물 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "물 마시는 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "물 위를 걷는 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "뜨거운 물 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "화장실 물 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "물꿈해몽풀이돈 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "가스 불 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "전기 합선 불 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "번개 불 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "파란 불 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "가스렌지 불 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "불 꿈해몽 불 끄는 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "바다 파도 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "바다 배 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "흙탕물 홍수 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "폭우 홍수 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "산사태 홍수 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "큰 홍수 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "집 홍수 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "물 홍수 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "비 맞는 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "비 내리는 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "비 오는 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "먹구름 비 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "검은 비 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "천둥 번개 비 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "비꿈 물 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
    "keyword": "결혼한 사람 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "다리 다치는 꿈",
-   "category": "신체",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "배 아픈 꿈",
-   "category": "신체",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "얼굴 꿈",
-   "category": "신체",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "물 꿈",
-   "category": "자연",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "불 꿈",
-   "category": "자연",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "바다 꿈",
-   "category": "자연",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "홍수 꿈",
-   "category": "자연",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "비 꿈",
-   "category": "자연",
    "source": "seed",
    "added": "2026-09-28"
   },
@@ -3213,12 +3507,6 @@
   {
    "keyword": "요리하는 꿈",
    "category": "행동",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "불나는 꿈",
-   "category": "사건",
    "source": "seed",
    "added": "2026-09-28"
   },
@@ -3803,6 +4091,14 @@
   "똥",
   "오줌",
   "대변",
-  "코피"
+  "코피",
+  "다리 다치는",
+  "배 아픈",
+  "얼굴",
+  "물",
+  "불",
+  "바다",
+  "홍수",
+  "비"
  ]
 }
