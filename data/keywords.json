@@ -169,6 +169,54 @@
    "added": "2026-09-28"
   },
   {
+   "keyword": "눈 오는 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "무지개 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "해 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "달 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "별 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "산 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "파도 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "지진 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
    "keyword": "초록뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -2965,56 +3013,236 @@
    "added": "2026-10-21"
   },
   {
+   "keyword": "눈 이 많이 오는 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "눈 이 펑펑 오는 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "눈 이 엄청 오는 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "여름 에 눈 오는 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "밤 에 눈 오는 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "큰 무지개 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "쌍무지개 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "해 뜨는 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "붉은 해 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "다음 해 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "붉은 달 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "엄청 큰 달 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "큰 달 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "커다란 달 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "밝은 달 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "푸른 달 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "밤하늘 별 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "소원의 별 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "인형 별 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "하늘 에 별 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "제주별 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "바위 산 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "눈 덮인 산 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "눈 쌓인 산 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "높은 산 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "모래 산 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "후지산 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "큰 파도 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "맑은 파도 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "높은 파도 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "거대한 파도 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "엄청 큰 파도 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "지진 나는 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "아파트 지진 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "큰 지진 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "일본 지진 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "학교 지진 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
+   "keyword": "쓰나미 지진 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-22"
+  },
+  {
    "keyword": "결혼한 사람 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "눈 오는 꿈",
-   "category": "자연",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "무지개 꿈",
-   "category": "자연",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "해 꿈",
-   "category": "자연",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "달 꿈",
-   "category": "자연",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "별 꿈",
-   "category": "자연",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "산 꿈",
-   "category": "자연",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "파도 꿈",
-   "category": "자연",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "지진 꿈",
-   "category": "자연",
    "source": "seed",
    "added": "2026-09-28"
   },
@@ -4123,6 +4351,14 @@
   "불",
   "바다",
   "홍수",
-  "비"
+  "비",
+  "눈 오는",
+  "무지개",
+  "해",
+  "달",
+  "별",
+  "산",
+  "파도",
+  "지진"
  ]
 }
