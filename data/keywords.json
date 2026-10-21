@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "대통령 꿈",
-   "category": "사람",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "아기 꿈",
-   "category": "사람",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "임신 꿈",
-   "category": "사람",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "쌍둥이 꿈",
    "category": "사람",
    "source": "suggest",
@@ -4049,6 +4031,12 @@
    "category": "사람",
    "source": "related",
    "added": "2026-10-21"
+  },
+  {
+   "keyword": "상 받는 꿈",
+   "category": "사람",
+   "source": "related",
+   "added": "2026-10-22"
   }
  ],
  "done": [
@@ -4276,6 +4264,21 @@
    "keyword": "전여친 꿈",
    "category": "사람",
    "date": "2026-10-21"
+  },
+  {
+   "keyword": "대통령 꿈",
+   "category": "사람",
+   "date": "2026-10-22"
+  },
+  {
+   "keyword": "아기 꿈",
+   "category": "사람",
+   "date": "2026-10-22"
+  },
+  {
+   "keyword": "임신 꿈",
+   "category": "사람",
+   "date": "2026-10-22"
   }
  ],
  "failed": [],
