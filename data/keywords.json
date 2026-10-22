@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "쌍둥이 꿈",
-   "category": "사람",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "친구 꿈",
-   "category": "사람",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "모르는 사람 꿈",
-   "category": "사람",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "귀신 꿈",
    "category": "사람",
    "source": "suggest",
@@ -4403,6 +4385,18 @@
    "category": "사람",
    "source": "related",
    "added": "2026-10-22"
+  },
+  {
+   "keyword": "형제 꿈",
+   "category": "사람",
+   "source": "related",
+   "added": "2026-10-23"
+  },
+  {
+   "keyword": "선생님 꿈",
+   "category": "사람",
+   "source": "related",
+   "added": "2026-10-23"
   }
  ],
  "done": [
@@ -4645,6 +4639,21 @@
    "keyword": "임신 꿈",
    "category": "사람",
    "date": "2026-10-22"
+  },
+  {
+   "keyword": "쌍둥이 꿈",
+   "category": "사람",
+   "date": "2026-10-23"
+  },
+  {
+   "keyword": "친구 꿈",
+   "category": "사람",
+   "date": "2026-10-23"
+  },
+  {
+   "keyword": "모르는 사람 꿈",
+   "category": "사람",
+   "date": "2026-10-23"
   }
  ],
  "failed": [],
