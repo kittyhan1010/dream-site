@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "짝사랑 꿈",
-   "category": "사람",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "피 꿈",
-   "category": "신체",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "머리카락 자르는 꿈",
-   "category": "신체",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "손톱 꿈",
    "category": "신체",
    "source": "suggest",
@@ -4805,6 +4787,42 @@
    "category": "사람",
    "source": "related",
    "added": "2026-10-24"
+  },
+  {
+   "keyword": "고백하는 꿈",
+   "category": "사람",
+   "source": "related",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "다치는 꿈",
+   "category": "신체",
+   "source": "related",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "생리하는 꿈",
+   "category": "신체",
+   "source": "related",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "머리카락 빠지는 꿈",
+   "category": "신체",
+   "source": "related",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "흰머리 꿈",
+   "category": "신체",
+   "source": "related",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "미용실 꿈",
+   "category": "신체",
+   "source": "related",
+   "added": "2026-10-24"
   }
  ],
  "done": [
@@ -5076,6 +5094,21 @@
   {
    "keyword": "왕 꿈",
    "category": "사람",
+   "date": "2026-10-24"
+  },
+  {
+   "keyword": "짝사랑 꿈",
+   "category": "사람",
+   "date": "2026-10-24"
+  },
+  {
+   "keyword": "피 꿈",
+   "category": "신체",
+   "date": "2026-10-24"
+  },
+  {
+   "keyword": "머리카락 자르는 꿈",
+   "category": "신체",
    "date": "2026-10-24"
   }
  ],
