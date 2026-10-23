@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "귀신 꿈",
-   "category": "사람",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "스님 꿈",
-   "category": "사람",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "왕 꿈",
-   "category": "사람",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "짝사랑 꿈",
    "category": "사람",
    "source": "suggest",
@@ -4787,6 +4769,42 @@
    "category": "사람",
    "source": "related",
    "added": "2026-10-23"
+  },
+  {
+   "keyword": "가위눌리는 꿈",
+   "category": "사람",
+   "source": "related",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "무당 꿈",
+   "category": "사람",
+   "source": "related",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "부처님 꿈",
+   "category": "사람",
+   "source": "related",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "머리 깎는 꿈",
+   "category": "사람",
+   "source": "related",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "왕비 꿈",
+   "category": "사람",
+   "source": "related",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "궁궐 꿈",
+   "category": "사람",
+   "source": "related",
+   "added": "2026-10-24"
   }
  ],
  "done": [
@@ -5044,6 +5062,21 @@
    "keyword": "모르는 사람 꿈",
    "category": "사람",
    "date": "2026-10-23"
+  },
+  {
+   "keyword": "귀신 꿈",
+   "category": "사람",
+   "date": "2026-10-24"
+  },
+  {
+   "keyword": "스님 꿈",
+   "category": "사람",
+   "date": "2026-10-24"
+  },
+  {
+   "keyword": "왕 꿈",
+   "category": "사람",
+   "date": "2026-10-24"
   }
  ],
  "failed": [],
