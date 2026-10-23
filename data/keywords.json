@@ -229,6 +229,54 @@
    "added": "2026-09-28"
   },
   {
+   "keyword": "반지 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "목걸이 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "신발 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "옷 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "거울 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "열쇠 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "시계 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "칼 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
    "keyword": "초록뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -3619,56 +3667,398 @@
    "added": "2026-10-23"
   },
   {
+   "keyword": "빛나는 반지 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "다이아 반지 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "다이아몬드 반지 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "보석 반지 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "큰 다이아몬드 반지 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "금반지 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "옥반지 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "반지 알이 빠지는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "에메랄드 반지 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "화려한 목걸이 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "진주 목걸이 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "금반지 금 목걸이 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "은 목걸이 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "목걸이 받는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "보석 목걸이 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "신발 잃어버리는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "신발 찾는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "신발 신는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "낡은 신발 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "신발꿈해몽금 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "신발꿈 해몽 못찾는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "신발꿈 해몽 찾아나는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "빨간 옷 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "남의 옷 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "검은 옷 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "옷꾸메는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "옷 사는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "노란색 옷 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "빨간색 옷 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "청색 옷 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "분홍색 옷 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "초록색 옷 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "검정 옷 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "파란색 옷 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "하늘색 옷 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "거울 보는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "거울 깨지는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "큰 거울 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "깨진 거울 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "전신 거울 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "자동차 열쇠 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "황금 열쇠 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "집 열쇠 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "사물함 열쇠 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "자물쇠 열쇠 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "금 열쇠 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "부러진 열쇠 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "열쇠꿈 보는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "열쇠꿈 받는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "열쇠 받는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "열쇠 꾸러미 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "손목 시계 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "명품 시계 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "고급 손목 시계 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "고급 시계 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "황금 시계 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "롤렉스 시계 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "괴한 칼 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "날카로운 칼 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "커터 칼 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "피 묻은 칼 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "부엌칼 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "녹슨 칼 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "칼 꿈해몽칼 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
+   "keyword": "칼꿈을꾼 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-24"
+  },
+  {
    "keyword": "결혼한 사람 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "반지 꿈",
-   "category": "사물",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "목걸이 꿈",
-   "category": "사물",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "신발 꿈",
-   "category": "사물",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "옷 꿈",
-   "category": "사물",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "거울 꿈",
-   "category": "사물",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "열쇠 꿈",
-   "category": "사물",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "시계 꿈",
-   "category": "사물",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "칼 꿈",
-   "category": "사물",
    "source": "seed",
    "added": "2026-09-28"
   },
@@ -4745,6 +5135,14 @@
   "흙",
   "바위",
   "돈",
-  "금"
+  "금",
+  "반지",
+  "목걸이",
+  "신발",
+  "옷",
+  "거울",
+  "열쇠",
+  "시계",
+  "칼"
  ]
 }
