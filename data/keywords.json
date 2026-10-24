@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "오줌 꿈",
-   "category": "신체",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "대변 꿈",
-   "category": "신체",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "코피 꿈",
-   "category": "신체",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "우는 꿈",
    "category": "행동",
    "source": "suggest",
@@ -5159,6 +5141,24 @@
    "category": "신체",
    "source": "related",
    "added": "2026-10-25"
+  },
+  {
+   "keyword": "변기 꿈",
+   "category": "신체",
+   "source": "related",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "코 꿈",
+   "category": "신체",
+   "source": "related",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "생리 꿈",
+   "category": "신체",
+   "source": "related",
+   "added": "2026-10-25"
   }
  ],
  "done": [
@@ -5459,6 +5459,21 @@
   },
   {
    "keyword": "손톱 꿈",
+   "category": "신체",
+   "date": "2026-10-25"
+  },
+  {
+   "keyword": "대변 꿈",
+   "category": "신체",
+   "date": "2026-10-25"
+  },
+  {
+   "keyword": "오줌 꿈",
+   "category": "신체",
+   "date": "2026-10-25"
+  },
+  {
+   "keyword": "코피 꿈",
    "category": "신체",
    "date": "2026-10-25"
   }
