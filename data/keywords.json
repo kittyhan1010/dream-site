@@ -241,6 +241,54 @@
    "added": "2026-09-28"
   },
   {
+   "keyword": "총 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "자동차 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "비행기 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "배 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "기차 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "집 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "문 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "편지 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
    "keyword": "초록뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -4021,56 +4069,344 @@
    "added": "2026-10-24"
   },
   {
+   "keyword": "총 맞는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "총 맞은 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "저격 총 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "장난감 총 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "밴드 총 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "군인 총 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "비비탄 총 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "전쟁 총 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "총 꿈 학살 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "검은 자동차 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "흰색 자동차 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "자동차 사고 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "자동차 잃어버리는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "자동차 사는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "자동차 운전하는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "자동차 접촉사고 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "자동차 충돌 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "꿈해몽 자동차 잃어버리는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "하늘 에 비행기 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "종이 비행기 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "많은 비행기 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "큰 비행기 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "추락하는 비행기 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "비행기 타는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "비행기 추락 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "비행기 사고 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "비행기 폭발 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "큰 배 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "먹는 배 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "과일 배 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "배 꿈틀거리는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "배꿈해몽 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "기차 의 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "기차 타는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "기차 놓치는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "빠른 기차 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "원숭이 기차 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "기차꿈 타려는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "상가집 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "전에 살던 집 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "집 고치는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "낡은 집 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "바다가 보이는 집 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "큰 집 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "현관 문 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "심연의 문 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "슈퍼 문 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "화장실 문 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "블러드 문 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "엘리베이터 문 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "문 꾸미는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "편지 받는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "편지 읽는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "편지 쓰는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "편지 봉투 받는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
+   "keyword": "편지 봉투 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-25"
+  },
+  {
    "keyword": "결혼한 사람 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "총 꿈",
-   "category": "사물",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "자동차 꿈",
-   "category": "사물",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "비행기 꿈",
-   "category": "사물",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "배 꿈",
-   "category": "사물",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "기차 꿈",
-   "category": "사물",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "집 꿈",
-   "category": "사물",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "문 꿈",
-   "category": "사물",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "편지 꿈",
-   "category": "사물",
    "source": "seed",
    "added": "2026-09-28"
   },
@@ -5209,6 +5545,14 @@
   "거울",
   "열쇠",
   "시계",
-  "칼"
+  "칼",
+  "총",
+  "자동차",
+  "비행기",
+  "배",
+  "기차",
+  "집",
+  "문",
+  "편지"
  ]
 }
