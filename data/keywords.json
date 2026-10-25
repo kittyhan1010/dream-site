@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "얼굴 꿈",
-   "category": "신체",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "물 꿈",
-   "category": "자연",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "불 꿈",
-   "category": "자연",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "바다 꿈",
    "category": "자연",
    "source": "suggest",
@@ -5489,6 +5471,24 @@
    "category": "신체",
    "source": "related",
    "added": "2026-10-26"
+  },
+  {
+   "keyword": "화장하는 꿈",
+   "category": "신체",
+   "source": "related",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "화재 꿈",
+   "category": "자연",
+   "source": "related",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "태양 꿈",
+   "category": "자연",
+   "source": "related",
+   "added": "2026-10-26"
   }
  ],
  "done": [
@@ -5820,6 +5820,21 @@
   {
    "keyword": "배 아픈 꿈",
    "category": "신체",
+   "date": "2026-10-26"
+  },
+  {
+   "keyword": "얼굴 꿈",
+   "category": "신체",
+   "date": "2026-10-26"
+  },
+  {
+   "keyword": "불 꿈",
+   "category": "자연",
+   "date": "2026-10-26"
+  },
+  {
+   "keyword": "물 꿈",
+   "category": "자연",
    "date": "2026-10-26"
   }
  ],
