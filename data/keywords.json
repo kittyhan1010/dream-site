@@ -253,6 +253,54 @@
    "added": "2026-09-28"
   },
   {
+   "keyword": "휴대폰 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "가방 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "책 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "우산 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "관 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "로또 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "밥 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "떡 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
    "keyword": "초록뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -4369,56 +4417,338 @@
    "added": "2026-10-25"
   },
   {
+   "keyword": "휴대폰 잃어버리는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "휴대폰 깨지는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "휴대폰 액정깨지는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "휴대폰 부서지는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "휴대폰 액정 금가는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "새 휴대폰 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "옛날 휴대폰 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "명품 가방 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "검정 가방 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "다른 사람 가방 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "돈 가방 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "가방 잃어버리는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "빨간 가방 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "많은 책 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "두꺼운 책 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "무거운 책 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "낡은 책 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "책 선물 받는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "검은 우산 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "접은 우산 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "새 우산 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "많은 우산 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "하얀 우산 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "찢어진 우산 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "큰 우산 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "부모님 관 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "조상 관 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "장례식 관 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "시체 관 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "무덤 관 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "검은 관 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "관 시체 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "로또 꿈해몽 숫자 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "백학 로또 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "백학도사 로또 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "전국 공통 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "로또꿈해몽똥을싸는 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "로또 꿈 해몽 숫자뱅 꿈",
+   "category": "사물",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "스폰지 밥 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "조상 밥 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "하얀 밥 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "짜장 밥 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "저승 밥 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "가마솥밥 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "밥 먹는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "밥 짓는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "백설기 떡 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "떡국 떡 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "고사 떡 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "무지개 떡 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "절편 떡 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "인절미떡 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "떡 먹는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "떡 받는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "떡 사는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-26"
+  },
+  {
    "keyword": "결혼한 사람 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "휴대폰 꿈",
-   "category": "사물",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "가방 꿈",
-   "category": "사물",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "책 꿈",
-   "category": "사물",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "우산 꿈",
-   "category": "사물",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "관 꿈",
-   "category": "사물",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "로또 꿈",
-   "category": "사물",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "밥 꿈",
-   "category": "음식",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "떡 꿈",
-   "category": "음식",
    "source": "seed",
    "added": "2026-09-28"
   },
@@ -5583,6 +5913,14 @@
   "기차",
   "집",
   "문",
-  "편지"
+  "편지",
+  "휴대폰",
+  "가방",
+  "책",
+  "우산",
+  "관",
+  "로또",
+  "밥",
+  "떡"
  ]
 }
