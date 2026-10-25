@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "우는 꿈",
-   "category": "행동",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "다리 다치는 꿈",
-   "category": "신체",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "배 아픈 꿈",
-   "category": "신체",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "얼굴 꿈",
    "category": "신체",
    "source": "suggest",
@@ -5489,6 +5471,24 @@
    "category": "신체",
    "source": "related",
    "added": "2026-10-25"
+  },
+  {
+   "keyword": "넘어지는 꿈",
+   "category": "신체",
+   "source": "related",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "다리 부러지는 꿈",
+   "category": "신체",
+   "source": "related",
+   "added": "2026-10-26"
+  },
+  {
+   "keyword": "토하는 꿈",
+   "category": "신체",
+   "source": "related",
+   "added": "2026-10-26"
   }
  ],
  "done": [
@@ -5806,6 +5806,21 @@
    "keyword": "코피 꿈",
    "category": "신체",
    "date": "2026-10-25"
+  },
+  {
+   "keyword": "우는 꿈",
+   "category": "행동",
+   "date": "2026-10-26"
+  },
+  {
+   "keyword": "다리 다치는 꿈",
+   "category": "신체",
+   "date": "2026-10-26"
+  },
+  {
+   "keyword": "배 아픈 꿈",
+   "category": "신체",
+   "date": "2026-10-26"
   }
  ],
  "failed": [],
