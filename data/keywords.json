@@ -247,6 +247,54 @@
    "added": "2026-09-28"
   },
   {
+   "keyword": "고기 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "과일 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "사과 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "복숭아 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "감 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "수박 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "포도 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "생선 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
    "keyword": "초록뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -4693,56 +4741,368 @@
    "added": "2026-10-26"
   },
   {
+   "keyword": "돼지 고기 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "삶은 돼지 고기 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "생 돼지 고기 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "뱀 고기 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "오리 고기 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "고기 먹는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "고기 굽는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "여러가지 과일 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "노란 과일 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "빨간 과일 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "큰 과일 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "초록색 과일 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "과일 꿈 똥 싸는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "과일 먹는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "과일 따는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "과일 받는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "큰 사과 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "빨간 사과 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "파란 사과 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "초록색 사과 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "사과꿈5개 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "사과 먹는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "큰 복숭아 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "천도 복숭아 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "엄청큰 복숭아 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "썩은 복숭아 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "복숭아 꿈 잡는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "복숭아 먹는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "감 보는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "감 따는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "감 먹는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "큰 감 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "노란 감 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "홍시 감 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "감 꿈해 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "감 꿈 따는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "감꿈과홍시 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "감 받는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "작은 수박 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "빨간 수박 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "꿈 에 수박 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "썩은 수박 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "엄청 큰 수박 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "잘 익은 수박 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "수박 먹는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "포도 먹는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "검은 포도 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "큰 포도 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "커다란 포도 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "썩은 포도 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "잘 익은 포도 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "죽은 생선 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "큰 생선 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "싱싱한 생선 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "구운 생선 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "갈치 생선 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "냉동 생선 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "말린 생선 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "마른 생선 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "생선 먹는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-27"
+  },
+  {
    "keyword": "결혼한 사람 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "고기 꿈",
-   "category": "음식",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "과일 꿈",
-   "category": "음식",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "사과 꿈",
-   "category": "음식",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "복숭아 꿈",
-   "category": "음식",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "감 꿈",
-   "category": "음식",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "수박 꿈",
-   "category": "음식",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "포도 꿈",
-   "category": "음식",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "생선 꿈",
-   "category": "음식",
    "source": "seed",
    "added": "2026-09-28"
   },
@@ -5960,6 +6320,14 @@
   "관",
   "로또",
   "밥",
-  "떡"
+  "떡",
+  "고기",
+  "과일",
+  "사과",
+  "복숭아",
+  "감",
+  "수박",
+  "포도",
+  "생선"
  ]
 }
