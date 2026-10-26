@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "불나는 꿈",
-   "category": "사건",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "눈 오는 꿈",
-   "category": "자연",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "무지개 꿈",
-   "category": "자연",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "해 꿈",
    "category": "자연",
    "source": "suggest",
@@ -5843,6 +5825,42 @@
    "category": "자연",
    "source": "related",
    "added": "2026-10-27"
+  },
+  {
+   "keyword": "소방차 꿈",
+   "category": "사건",
+   "source": "related",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "연기 꿈",
+   "category": "사건",
+   "source": "related",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "하늘 꿈",
+   "category": "자연",
+   "source": "related",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "구름 꿈",
+   "category": "자연",
+   "source": "related",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "얼음 꿈",
+   "category": "자연",
+   "source": "related",
+   "added": "2026-10-27"
+  },
+  {
+   "keyword": "눈사람 꿈",
+   "category": "자연",
+   "source": "related",
+   "added": "2026-10-27"
   }
  ],
  "done": [
@@ -6203,6 +6221,21 @@
   },
   {
    "keyword": "바다 꿈",
+   "category": "자연",
+   "date": "2026-10-27"
+  },
+  {
+   "keyword": "불나는 꿈",
+   "category": "사건",
+   "date": "2026-10-27"
+  },
+  {
+   "keyword": "무지개 꿈",
+   "category": "자연",
+   "date": "2026-10-27"
+  },
+  {
+   "keyword": "눈 오는 꿈",
    "category": "자연",
    "date": "2026-10-27"
   }
