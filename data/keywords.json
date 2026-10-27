@@ -277,6 +277,54 @@
    "added": "2026-09-28"
   },
   {
+   "keyword": "계란 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "술 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "라면 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "케이크 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "학교 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "군대 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "병원 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "화장실 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
    "keyword": "초록뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -5083,56 +5131,308 @@
    "added": "2026-10-27"
   },
   {
+   "keyword": "하얀 계란 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "삶은 계란 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "깨진 계란 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "큰 계란 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "썩은 계란 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "계란 노른자 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "계란 후라이 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "연운 술 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "비싼 술 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "돌아가신 아버지 술 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "연예인 술 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "조상 술 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "대통령 술 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "술 마시는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "술 선물 받는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "라면 먹는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "컵 라면 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "생 라면 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "대전 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "라면 끓이는 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "조각 케이크 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "큰 케이크 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "흰 케이크 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "생일 케이크 꿈",
+   "category": "음식",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "모르는 학교 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "졸업한 학교 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "학교 선생님 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "전역 후 군대 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "여자 군대 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "군대 훈련 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "정신 병원 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "서울대 병원 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "동물 병원 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "엄마 병원 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "부모님 병원 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "강아지 병원 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "요양 병원 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "병원꿈 진료받는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "병원 가는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "더러운 화장실 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "공중화장실 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "화장실 꿈 청바지 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "화장실 청소하는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "화장실 물청소 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "화장실 찾는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "화장실 변기 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "재래식 화장실 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "지저분한 화장실 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "깨끗한 화장실 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
+   "keyword": "화장실 꿈해몽 물이 가득찬 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
    "keyword": "결혼한 사람 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "계란 꿈",
-   "category": "음식",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "술 꿈",
-   "category": "음식",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "라면 꿈",
-   "category": "음식",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "케이크 꿈",
-   "category": "음식",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "학교 꿈",
-   "category": "장소",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "군대 꿈",
-   "category": "장소",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "병원 꿈",
-   "category": "장소",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "화장실 꿈",
-   "category": "장소",
    "source": "seed",
    "added": "2026-09-28"
   },
@@ -6361,6 +6661,14 @@
   "감",
   "수박",
   "포도",
-  "생선"
+  "생선",
+  "계란",
+  "술",
+  "라면",
+  "케이크",
+  "학교",
+  "군대",
+  "병원",
+  "화장실"
  ]
 }
