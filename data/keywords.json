@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "태풍 꿈",
-   "category": "자연",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "번개 꿈",
-   "category": "자연",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "꽃 꿈",
-   "category": "자연",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "나무 꿈",
    "category": "자연",
    "source": "suggest",
@@ -6149,6 +6131,36 @@
    "category": "자연",
    "source": "related",
    "added": "2026-10-28"
+  },
+  {
+   "keyword": "꽃다발 받는 꿈",
+   "category": "자연",
+   "source": "related",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "천둥 꿈",
+   "category": "자연",
+   "source": "related",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "벼락 맞는 꿈",
+   "category": "자연",
+   "source": "related",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "바람 꿈",
+   "category": "자연",
+   "source": "related",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "회오리바람 꿈",
+   "category": "자연",
+   "source": "related",
+   "added": "2026-10-29"
   }
  ],
  "done": [
@@ -6556,6 +6568,21 @@
    "keyword": "파도 꿈",
    "category": "자연",
    "date": "2026-10-28"
+  },
+  {
+   "keyword": "꽃 꿈",
+   "category": "자연",
+   "date": "2026-10-29"
+  },
+  {
+   "keyword": "번개 꿈",
+   "category": "자연",
+   "date": "2026-10-29"
+  },
+  {
+   "keyword": "태풍 꿈",
+   "category": "자연",
+   "date": "2026-10-29"
   }
  ],
  "failed": [],
