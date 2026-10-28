@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "나무 꿈",
-   "category": "자연",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "흙 꿈",
-   "category": "자연",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "바위 꿈",
-   "category": "자연",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "돈 꿈",
    "category": "사물",
    "source": "suggest",
@@ -6419,6 +6401,54 @@
    "category": "자연",
    "source": "related",
    "added": "2026-10-29"
+  },
+  {
+   "keyword": "돌 꿈",
+   "category": "자연",
+   "source": "related",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "동굴 꿈",
+   "category": "자연",
+   "source": "related",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "땅 꿈",
+   "category": "자연",
+   "source": "related",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "진흙 꿈",
+   "category": "자연",
+   "source": "related",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "밭 꿈",
+   "category": "자연",
+   "source": "related",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "숲 꿈",
+   "category": "자연",
+   "source": "related",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "열매 꿈",
+   "category": "자연",
+   "source": "related",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "소나무 꿈",
+   "category": "자연",
+   "source": "related",
+   "added": "2026-10-29"
   }
  ],
  "done": [
@@ -6839,6 +6869,21 @@
   },
   {
    "keyword": "태풍 꿈",
+   "category": "자연",
+   "date": "2026-10-29"
+  },
+  {
+   "keyword": "바위 꿈",
+   "category": "자연",
+   "date": "2026-10-29"
+  },
+  {
+   "keyword": "흙 꿈",
+   "category": "자연",
+   "date": "2026-10-29"
+  },
+  {
+   "keyword": "나무 꿈",
    "category": "자연",
    "date": "2026-10-29"
   }
