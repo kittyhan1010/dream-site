@@ -271,6 +271,54 @@
    "added": "2026-09-28"
   },
   {
+   "keyword": "시험장 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "교회 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "절 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "공항 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "엘리베이터 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "계단 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "다리 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "터널 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
    "keyword": "초록뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -5377,56 +5425,266 @@
    "added": "2026-10-28"
   },
   {
+   "keyword": "시험장 에 못가는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "시험장에 늦는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "시험장 가는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "시험장에 가는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "시험장 못 찾는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "오륜 교회 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "큰 교회 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "사이비 교회 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "온누리 교회 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "절 에 가는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "절 하는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "절 보이는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "절 받는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "절 에 들어가는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "절 에서 자는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "절 나오는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "절 꿈을 꾸는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "절꿈 스님 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "공항 가는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "공항 에 늦는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "인천 공항 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "고장난 엘리베이터 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "고층 엘리베이터 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "좁은 엘리베이터 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "아파트 엘리베이터 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "엘리베이터꿈 올라가는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "계단 내려가는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "계단 오르는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "계단 에서 떨어지는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "가파른 계단 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "높은 계단 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "끝없는 계단 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "좁은 계단 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "나선형 계단 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "계단 올라가는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "다리 꿈 건너는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "신체 다리 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "터널을 지나는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "터널 에서 나오는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "터널 무너지는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "터널로 들어가는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "지하 터널 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
+   "keyword": "구로사와 아키라 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-29"
+  },
+  {
    "keyword": "결혼한 사람 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "시험장 꿈",
-   "category": "장소",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "교회 꿈",
-   "category": "장소",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "절 꿈",
-   "category": "장소",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "공항 꿈",
-   "category": "장소",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "엘리베이터 꿈",
-   "category": "장소",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "계단 꿈",
-   "category": "장소",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "다리 꿈",
-   "category": "장소",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "터널 꿈",
-   "category": "장소",
    "source": "seed",
    "added": "2026-09-28"
   },
@@ -6714,6 +6972,14 @@
   "학교",
   "군대",
   "병원",
-  "화장실"
+  "화장실",
+  "시험장",
+  "교회",
+  "절",
+  "공항",
+  "엘리베이터",
+  "계단",
+  "다리",
+  "터널"
  ]
 }
