@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "돈 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "금 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "반지 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "목걸이 꿈",
    "category": "사물",
    "source": "suggest",
@@ -6449,6 +6431,24 @@
    "category": "자연",
    "source": "related",
    "added": "2026-10-29"
+  },
+  {
+   "keyword": "보석 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "복권 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "지갑 잃어버리는 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-10-30"
   }
  ],
  "done": [
@@ -6886,6 +6886,21 @@
    "keyword": "나무 꿈",
    "category": "자연",
    "date": "2026-10-29"
+  },
+  {
+   "keyword": "금 꿈",
+   "category": "사물",
+   "date": "2026-10-30"
+  },
+  {
+   "keyword": "돈 꿈",
+   "category": "사물",
+   "date": "2026-10-30"
+  },
+  {
+   "keyword": "반지 꿈",
+   "category": "사물",
+   "date": "2026-10-30"
   }
  ],
  "failed": [],
