@@ -283,6 +283,48 @@
    "added": "2026-09-28"
   },
   {
+   "keyword": "옛날 집 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "시골집 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "쫓기는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "떨어지는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "날아다니는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "싸우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "죽는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
    "keyword": "초록뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -5389,6 +5431,12 @@
    "added": "2026-10-28"
   },
   {
+   "keyword": "절벽에서 떨어지는 꿈",
+   "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-28"
+  },
+  {
    "keyword": "시험장 에 못가는 꿈",
    "category": "장소",
    "source": "suggest",
@@ -5647,50 +5695,464 @@
    "added": "2026-10-29"
   },
   {
+   "keyword": "옛날 집 수리 하는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "옛날 집 이 나오는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "옛날 에 살던 집 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "옛날 집 에 있는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "옛날 집 에 가는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "옛날 집 에서 자는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "옛날 집 에 사는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "옛날 집 꿈 농사짓는 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "옛날 시골집 꿈",
+   "category": "장소",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "살인마한테 쫓기는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "호랑이한테 쫓기는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "좀비한테 쫓기는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "경찰에 쫓기는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "누군가에게 쫓기는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "귀신한테 쫓기는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "누구한테 쫓기는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "곰에게 쫓기는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "살인자에게 쫓기는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "꿈해몽 쫓기는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "개한테 쫓기는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "높은 곳에서 떨어지는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "운석 떨어지는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "대학 떨어지는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "시험에 떨어지는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "하늘에서 떨어지는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "차가 떨어지는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "다른 사람이 떨어지는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "천장에서 물이 떨어지는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "폭포 떨어지는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "꿈해몽 떨어지는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "친구 랑 싸우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "엄마 랑 싸우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "소리 지르며 싸우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "아빠랑 싸우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "친구와 싸우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "가족과 싸우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "동생이랑 싸우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "언니랑 싸우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "남자친구랑 싸우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "친한 친구랑 싸우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "꿈에서 싸우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "우는 꿈 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "내가 서럽게 우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "소리내어 펑펑 우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "엄마가 돌아가셔서 우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "내가 우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "펑펑 우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "엄마가 우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "친구가 우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "엉엉 우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "아빠가 우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "아기가 우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "가족이 우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "남이 우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "엄청 우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "꿈에 우는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "내가 죽는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "사람 죽는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "친구가 죽는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "아는 사람 죽는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "엄마 죽는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "가족이 죽는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "총맞아 죽는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "엄마가 죽는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "친구 죽는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "동생이 죽는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "아들이 죽는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "물에 빠져 죽는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "아이가 죽는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "자식 죽는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "아빠 죽는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "지인 죽는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "아버지 죽는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "남편이 죽는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "아는 사람이 죽는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "부모가 죽는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-30"
+  },
+  {
    "keyword": "결혼한 사람 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "옛날 집 꿈",
-   "category": "장소",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "시골집 꿈",
-   "category": "장소",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "쫓기는 꿈",
-   "category": "행동",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "떨어지는 꿈",
-   "category": "행동",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "날아다니는 꿈",
-   "category": "행동",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "싸우는 꿈",
-   "category": "행동",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "죽는 꿈",
-   "category": "행동",
    "source": "seed",
    "added": "2026-09-28"
   },
@@ -6332,12 +6794,6 @@
   },
   {
    "keyword": "등산하는 꿈",
-   "category": "자연",
-   "source": "related",
-   "added": "2026-10-28"
-  },
-  {
-   "keyword": "절벽에서 떨어지는 꿈",
    "category": "자연",
    "source": "related",
    "added": "2026-10-28"
@@ -7040,6 +7496,14 @@
   "엘리베이터",
   "계단",
   "다리",
-  "터널"
+  "터널",
+  "옛날 집",
+  "시골집",
+  "쫓기는",
+  "떨어지는",
+  "날아다니는",
+  "싸우는",
+  "우는",
+  "죽는"
  ]
 }
