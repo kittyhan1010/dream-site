@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "목걸이 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "신발 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "옷 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "거울 꿈",
    "category": "사물",
    "source": "suggest",
@@ -6905,6 +6887,30 @@
    "category": "사물",
    "source": "related",
    "added": "2026-10-30"
+  },
+  {
+   "keyword": "귀걸이 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "진주 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "맨발 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-10-30"
+  },
+  {
+   "keyword": "알몸 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-10-30"
   }
  ],
  "done": [
@@ -7355,6 +7361,21 @@
   },
   {
    "keyword": "반지 꿈",
+   "category": "사물",
+   "date": "2026-10-30"
+  },
+  {
+   "keyword": "목걸이 꿈",
+   "category": "사물",
+   "date": "2026-10-30"
+  },
+  {
+   "keyword": "신발 꿈",
+   "category": "사물",
+   "date": "2026-10-30"
+  },
+  {
+   "keyword": "옷 꿈",
    "category": "사물",
    "date": "2026-10-30"
   }
