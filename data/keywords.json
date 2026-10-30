@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "거울 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "열쇠 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "시계 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "칼 꿈",
    "category": "사물",
    "source": "suggest",
@@ -7343,6 +7325,30 @@
    "category": "사물",
    "source": "related",
    "added": "2026-10-30"
+  },
+  {
+   "keyword": "유리 깨지는 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "지각하는 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "알람 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "자물쇠 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-10-31"
   }
  ],
  "done": [
@@ -7810,6 +7816,21 @@
    "keyword": "옷 꿈",
    "category": "사물",
    "date": "2026-10-30"
+  },
+  {
+   "keyword": "거울 꿈",
+   "category": "사물",
+   "date": "2026-10-31"
+  },
+  {
+   "keyword": "시계 꿈",
+   "category": "사물",
+   "date": "2026-10-31"
+  },
+  {
+   "keyword": "열쇠 꿈",
+   "category": "사물",
+   "date": "2026-10-31"
   }
  ],
  "failed": [],
