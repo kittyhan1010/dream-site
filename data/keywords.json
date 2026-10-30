@@ -307,6 +307,54 @@
    "added": "2026-09-28"
   },
   {
+   "keyword": "도망가는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "시험 보는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "길 잃는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "수영하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "운전하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "이사하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "결혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "이혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
    "keyword": "초록뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -6133,56 +6181,440 @@
    "added": "2026-10-30"
   },
   {
+   "keyword": "불나서 도망가는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "도망가는 꿈 쫓기는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "도망가는꿈 탈출하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "공부 안하고 시험 보는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "학교에서 시험 보는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "꿈 에서 시험 보는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "수능 시험 보는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "영어 시험 보는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "수학 시험 보는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "갑자기 시험 보는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "어려운 시험 보는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "시험 보는 꿈 공부하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "시험보는꿈 컨닝하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "시험보는꿈는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "시험보는꿈못푸는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "시험보는꿈 채점하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "외국에서 길 잃는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "여행 가서 길 잃는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "학교에서 길 잃는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "산에서 길 잃는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "공항 에서 길 잃는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "지하철 에서 길 잃는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "해외 에서 길 잃는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "건물에서 길 잃는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "수영장에서 수영하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "바다에서 수영하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "맑은 물에서 수영하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "깊은 물에서 수영하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "강에서 수영하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "넓은 바다에서 수영하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "남이 수영하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "물속에서 수영하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "수영하는 꿈 물많은 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "바다수영하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "버스 운전하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "남의차 운전하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "차 운전하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "아는 사람이 운전하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "내가 운전하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "운전하는 꿈 주차하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "음주운전 하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "가족이 이사하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "허름한 집으로 이사하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "남이 이사하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "좋은 집으로 이사하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "집 이사하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "큰집으로 이사하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "작은 집으로 이사하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "새집으로 이사하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "이사하는꿈을 많이 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "꿈해몽 이사하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "내가 결혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "기혼자가 결혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "친구가 결혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "모르는 사람과 결혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "갑자기 결혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "친구 결혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "가족이 결혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "지인이 결혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "연예인과 결혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "엄마가 결혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "연예인이랑 결혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "꿈해몽 결혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "부모님 이혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "부모가 이혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "남편과 이혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "남편의 외도로 이혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "친구가 이혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "남이 이혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "엄마아빠 이혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "엄마 아빠가 이혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
+   "keyword": "부모님이 이혼하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-10-31"
+  },
+  {
    "keyword": "결혼한 사람 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "도망가는 꿈",
-   "category": "행동",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "시험 보는 꿈",
-   "category": "행동",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "길 잃는 꿈",
-   "category": "행동",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "수영하는 꿈",
-   "category": "행동",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "운전하는 꿈",
-   "category": "행동",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "이사하는 꿈",
-   "category": "행동",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "결혼하는 꿈",
-   "category": "행동",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "이혼하는 꿈",
-   "category": "행동",
    "source": "seed",
    "added": "2026-09-28"
   },
@@ -7525,6 +7957,14 @@
   "날아다니는",
   "싸우는",
   "우는",
-  "죽는"
+  "죽는",
+  "도망가는",
+  "시험 보는",
+  "길 잃는",
+  "수영하는",
+  "운전하는",
+  "이사하는",
+  "결혼하는",
+  "이혼하는"
  ]
 }
