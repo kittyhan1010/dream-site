@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "칼 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "총 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "자동차 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "비행기 꿈",
    "category": "사물",
    "source": "suggest",
@@ -7349,6 +7331,18 @@
    "category": "사물",
    "source": "related",
    "added": "2026-10-31"
+  },
+  {
+   "keyword": "버스 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "가위 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-11-01"
   }
  ],
  "done": [
@@ -7831,6 +7825,21 @@
    "keyword": "열쇠 꿈",
    "category": "사물",
    "date": "2026-10-31"
+  },
+  {
+   "keyword": "자동차 꿈",
+   "category": "사물",
+   "date": "2026-11-01"
+  },
+  {
+   "keyword": "총 꿈",
+   "category": "사물",
+   "date": "2026-11-01"
+  },
+  {
+   "keyword": "칼 꿈",
+   "category": "사물",
+   "date": "2026-11-01"
   }
  ],
  "failed": [],
