@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "비행기 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "배 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "기차 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "집 꿈",
    "category": "사물",
    "source": "suggest",
@@ -7715,6 +7697,30 @@
    "category": "사물",
    "source": "related",
    "added": "2026-11-01"
+  },
+  {
+   "keyword": "지하철 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "여행 가는 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "항구 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "낚시하는 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-11-01"
   }
  ],
  "done": [
@@ -8210,6 +8216,21 @@
   },
   {
    "keyword": "칼 꿈",
+   "category": "사물",
+   "date": "2026-11-01"
+  },
+  {
+   "keyword": "기차 꿈",
+   "category": "사물",
+   "date": "2026-11-01"
+  },
+  {
+   "keyword": "배 꿈",
+   "category": "사물",
+   "date": "2026-11-01"
+  },
+  {
+   "keyword": "비행기 꿈",
    "category": "사물",
    "date": "2026-11-01"
   }
