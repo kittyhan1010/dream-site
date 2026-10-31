@@ -319,6 +319,48 @@
    "added": "2026-09-28"
   },
   {
+   "keyword": "키스하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "노래하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "춤추는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "청소하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "요리하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "교통사고 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "전쟁 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
    "keyword": "초록뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -6577,50 +6619,380 @@
    "added": "2026-10-31"
   },
   {
+   "keyword": "연예인과 키스하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "진하게 키스하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "이성과 키스하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "연예인이랑 키스하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "남자랑 키스하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "키스하는 꿈 닭 나오는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "연예인 키스 하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "키스하는꿈 청혼받는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "꿈해몽 키스하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "노래방에서 노래하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "사람들 앞에서 노래하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "무대에서 노래하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "춤추고 노래하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "가수가 노래하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "꿈에 노래하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "연예인이 노래하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "사람들 앞에서 춤추는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "남이 춤추는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "단체 춤추는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "즐겁게 춤추는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "남자 와 춤추는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "무대 에서 춤추는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "한복 입고 춤추는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "춤추는 꿈을 보는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "더러운 곳 청소하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "집 청소하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "지저분한 집 청소하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "바닥 청소하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "빗자루로 청소하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "물 청소하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "방청소하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "변기청소하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "냉장고청소하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "부엌 에서 요리하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "남이 요리하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "엄마가 요리하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "생선 요리하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "고기 요리하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "돌아가신 엄마가 요리하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "돼지고기 요리하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "뱀 요리하는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "요리하는꿈나오는 꿈",
+   "category": "행동",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "집에 불나는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "건물에 불나는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "차에 불나는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "아파트 불나는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "꿈에서 불나는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "건물 불나는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "집 불나는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "학교에 불나는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "아파트에 불나는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "산에 불나는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "부모님 교통사고 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "교통사고 꿈 죽는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "교통사고 나는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "교통사고 목격 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "꿈해몽 교통사고 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "남북 전쟁 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "한국 전쟁 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "전쟁꿈 해몽 피난 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "전쟁꿈 불 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
+   "keyword": "전쟁 피난 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-01"
+  },
+  {
    "keyword": "결혼한 사람 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "키스하는 꿈",
-   "category": "행동",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "노래하는 꿈",
-   "category": "행동",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "춤추는 꿈",
-   "category": "행동",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "청소하는 꿈",
-   "category": "행동",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "요리하는 꿈",
-   "category": "행동",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "교통사고 꿈",
-   "category": "사건",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "전쟁 꿈",
-   "category": "사건",
    "source": "seed",
    "added": "2026-09-28"
   },
@@ -7995,6 +8367,14 @@
   "운전하는",
   "이사하는",
   "결혼하는",
-  "이혼하는"
+  "이혼하는",
+  "키스하는",
+  "노래하는",
+  "춤추는",
+  "청소하는",
+  "요리하는",
+  "불나는",
+  "교통사고",
+  "전쟁"
  ]
 }
