@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "집 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "문 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "편지 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "휴대폰 꿈",
    "category": "사물",
    "source": "suggest",
@@ -8105,6 +8087,24 @@
    "category": "사물",
    "source": "related",
    "added": "2026-11-01"
+  },
+  {
+   "keyword": "창문 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "이사 꿈",
+   "category": "장소",
+   "source": "related",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "전화 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-11-02"
   }
  ],
  "done": [
@@ -8617,6 +8617,21 @@
    "keyword": "비행기 꿈",
    "category": "사물",
    "date": "2026-11-01"
+  },
+  {
+   "keyword": "문 꿈",
+   "category": "사물",
+   "date": "2026-11-02"
+  },
+  {
+   "keyword": "집 꿈",
+   "category": "장소",
+   "date": "2026-11-02"
+  },
+  {
+   "keyword": "편지 꿈",
+   "category": "사물",
+   "date": "2026-11-02"
   }
  ],
  "failed": [],
