@@ -343,6 +343,54 @@
    "added": "2026-09-28"
   },
   {
+   "keyword": "장례식 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "출산 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "합격 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "이별 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "도둑 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "물에 빠지는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "살인 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
+   "keyword": "감옥 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
    "keyword": "초록뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -3135,6 +3183,12 @@
   {
    "keyword": "비꿈 물 꿈",
    "category": "자연",
+   "source": "suggest",
+   "added": "2026-10-21"
+  },
+  {
+   "keyword": "이별하는 꿈",
+   "category": "사람",
    "source": "suggest",
    "added": "2026-10-21"
   },
@@ -6973,56 +7027,392 @@
    "added": "2026-11-01"
   },
   {
+   "keyword": "돌아가신 분 장례식 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "돌아가신 부모님 장례식 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "모르는사람 장례식 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "남의 장례식 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "살아계신 엄마 장례식 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "가족 장례식 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "친구 장례식 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "부모님 장례식 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "엄마 장례식 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "할머니 장례식 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "아버지 장례식 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "임신 출산 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "쌍둥이 출산 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "강아지 출산 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "아기 출산 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "고양이 출산 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "여자친구 출산 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "남자 출산 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "대학 합격 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "시험 합격 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "면접 합격 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "공무원 합격 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "최종 합격 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "서울대 합격 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "이별 통보 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "이별 통보 받는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "이별 당하는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "잠수 이별 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "환승이별 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "연운 진천의 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "진천의 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "도둑 맞는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "도둑 맞은 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "도둑 잡는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "집에 도둑 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "차 도둑 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "집 도둑 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "신발 도둑 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "자전거 도둑 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "차가 물에 빠지는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "다른 사람이 물에 빠지는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "가족이 물에 빠지는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "깊은 물에 빠지는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "자동차가 물에 빠지는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "맑은 물에 빠지는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "차타고 물에 빠지는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "자식이 물에 빠지는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "아이가 물에 빠지는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "친구가 물에 빠지는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "토막 살인 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "연쇄 살인 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "묻지마 살인 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "가족 살인 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "대량 살인 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "가족이 살인 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "살인 꿈 피 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "살인 목격 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "살인 꿈해몽 싸우는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "감옥 가는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "감옥 에 갇히는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "감옥 들어가는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "감옥 에 있는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "감옥 에서 나오는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
+   "keyword": "감옥 탈출하는 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-02"
+  },
+  {
    "keyword": "결혼한 사람 꿈",
    "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "장례식 꿈",
-   "category": "사건",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "출산 꿈",
-   "category": "사건",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "합격 꿈",
-   "category": "사건",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "이별 꿈",
-   "category": "사건",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "도둑 꿈",
-   "category": "사건",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "물에 빠지는 꿈",
-   "category": "사건",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "살인 꿈",
-   "category": "사건",
-   "source": "seed",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "감옥 꿈",
-   "category": "사건",
    "source": "seed",
    "added": "2026-09-28"
   },
@@ -7304,12 +7694,6 @@
   },
   {
    "keyword": "첫사랑 꿈",
-   "category": "사람",
-   "source": "related",
-   "added": "2026-10-21"
-  },
-  {
-   "keyword": "이별하는 꿈",
    "category": "사람",
    "source": "related",
    "added": "2026-10-21"
@@ -8396,6 +8780,14 @@
   "요리하는",
   "불나는",
   "교통사고",
-  "전쟁"
+  "전쟁",
+  "장례식",
+  "출산",
+  "합격",
+  "이별",
+  "도둑",
+  "물에 빠지는",
+  "살인",
+  "감옥"
  ]
 }
