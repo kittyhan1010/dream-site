@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "휴대폰 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "가방 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "책 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "우산 꿈",
    "category": "사물",
    "source": "suggest",
@@ -8105,6 +8087,18 @@
    "category": "사물",
    "source": "related",
    "added": "2026-11-02"
+  },
+  {
+   "keyword": "지갑 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-11-03"
+  },
+  {
+   "keyword": "전화 오는 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-11-03"
   }
  ],
  "done": [
@@ -8632,6 +8626,21 @@
    "keyword": "편지 꿈",
    "category": "사물",
    "date": "2026-11-02"
+  },
+  {
+   "keyword": "가방 꿈",
+   "category": "사물",
+   "date": "2026-11-03"
+  },
+  {
+   "keyword": "책 꿈",
+   "category": "사물",
+   "date": "2026-11-03"
+  },
+  {
+   "keyword": "휴대폰 꿈",
+   "category": "사물",
+   "date": "2026-11-03"
   }
  ],
  "failed": [],
