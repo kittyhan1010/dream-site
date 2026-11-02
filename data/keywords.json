@@ -355,6 +355,12 @@
    "added": "2026-09-28"
   },
   {
+   "keyword": "납치 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-09-28"
+  },
+  {
    "keyword": "초록뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -7375,14 +7381,50 @@
    "added": "2026-11-02"
   },
   {
-   "keyword": "결혼한 사람 꿈",
-   "category": "사람",
-   "source": "seed",
-   "added": "2026-09-28"
+   "keyword": "가족 납치 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-03"
   },
   {
-   "keyword": "납치 꿈",
+   "keyword": "비행기 납치 꿈",
    "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-03"
+  },
+  {
+   "keyword": "사이비 납치 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-03"
+  },
+  {
+   "keyword": "외계인 납치 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-03"
+  },
+  {
+   "keyword": "아이 납치 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-03"
+  },
+  {
+   "keyword": "아기 납치 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-03"
+  },
+  {
+   "keyword": "택시 납치 꿈",
+   "category": "사건",
+   "source": "suggest",
+   "added": "2026-11-03"
+  },
+  {
+   "keyword": "결혼한 사람 꿈",
+   "category": "사람",
    "source": "seed",
    "added": "2026-09-28"
   },
@@ -8812,6 +8854,7 @@
   "도둑",
   "물에 빠지는",
   "살인",
-  "감옥"
+  "감옥",
+  "납치"
  ]
 }
