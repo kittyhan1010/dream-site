@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "밥 꿈",
-   "category": "음식",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "떡 꿈",
-   "category": "음식",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "고기 꿈",
-   "category": "음식",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "과일 꿈",
    "category": "음식",
    "source": "suggest",
@@ -8147,6 +8129,18 @@
    "category": "사물",
    "source": "related",
    "added": "2026-11-04"
+  },
+  {
+   "keyword": "잔치 꿈",
+   "category": "음식",
+   "source": "related",
+   "added": "2026-11-04"
+  },
+  {
+   "keyword": "쌀 꿈",
+   "category": "음식",
+   "source": "related",
+   "added": "2026-11-04"
   }
  ],
  "done": [
@@ -8703,6 +8697,21 @@
   {
    "keyword": "우산 꿈",
    "category": "사물",
+   "date": "2026-11-04"
+  },
+  {
+   "keyword": "고기 꿈",
+   "category": "음식",
+   "date": "2026-11-04"
+  },
+  {
+   "keyword": "떡 꿈",
+   "category": "음식",
+   "date": "2026-11-04"
+  },
+  {
+   "keyword": "밥 꿈",
+   "category": "음식",
    "date": "2026-11-04"
   }
  ],
