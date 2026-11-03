@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "우산 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "관 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "로또 꿈",
-   "category": "사물",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "밥 꿈",
    "category": "음식",
    "source": "suggest",
@@ -8141,6 +8123,30 @@
    "category": "사물",
    "source": "related",
    "added": "2026-11-03"
+  },
+  {
+   "keyword": "숫자 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-11-04"
+  },
+  {
+   "keyword": "복권 줍는 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-11-04"
+  },
+  {
+   "keyword": "장화 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-11-04"
+  },
+  {
+   "keyword": "소나기 꿈",
+   "category": "사물",
+   "source": "related",
+   "added": "2026-11-04"
   }
  ],
  "done": [
@@ -8683,6 +8689,21 @@
    "keyword": "휴대폰 꿈",
    "category": "사물",
    "date": "2026-11-03"
+  },
+  {
+   "keyword": "관 꿈",
+   "category": "사물",
+   "date": "2026-11-04"
+  },
+  {
+   "keyword": "로또 꿈",
+   "category": "사물",
+   "date": "2026-11-04"
+  },
+  {
+   "keyword": "우산 꿈",
+   "category": "사물",
+   "date": "2026-11-04"
   }
  ],
  "failed": [],
