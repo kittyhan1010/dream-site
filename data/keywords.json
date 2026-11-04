@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "감 꿈",
-   "category": "음식",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "수박 꿈",
-   "category": "음식",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "포도 꿈",
-   "category": "음식",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "생선 꿈",
    "category": "음식",
    "source": "suggest",
@@ -8129,6 +8111,24 @@
    "category": "음식",
    "source": "related",
    "added": "2026-11-05"
+  },
+  {
+   "keyword": "감나무 꿈",
+   "category": "음식",
+   "source": "related",
+   "added": "2026-11-05"
+  },
+  {
+   "keyword": "참외 꿈",
+   "category": "음식",
+   "source": "related",
+   "added": "2026-11-05"
+  },
+  {
+   "keyword": "포도밭 꿈",
+   "category": "음식",
+   "source": "related",
+   "added": "2026-11-05"
   }
  ],
  "done": [
@@ -8714,6 +8714,21 @@
   },
   {
    "keyword": "사과 꿈",
+   "category": "음식",
+   "date": "2026-11-05"
+  },
+  {
+   "keyword": "감 꿈",
+   "category": "음식",
+   "date": "2026-11-05"
+  },
+  {
+   "keyword": "수박 꿈",
+   "category": "음식",
+   "date": "2026-11-05"
+  },
+  {
+   "keyword": "포도 꿈",
    "category": "음식",
    "date": "2026-11-05"
   }
