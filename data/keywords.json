@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "과일 꿈",
-   "category": "음식",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "사과 꿈",
-   "category": "음식",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "복숭아 꿈",
-   "category": "음식",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "감 꿈",
    "category": "음식",
    "source": "suggest",
@@ -8141,6 +8123,12 @@
    "category": "음식",
    "source": "related",
    "added": "2026-11-04"
+  },
+  {
+   "keyword": "배 먹는 꿈",
+   "category": "음식",
+   "source": "related",
+   "added": "2026-11-05"
   }
  ],
  "done": [
@@ -8713,6 +8701,21 @@
    "keyword": "밥 꿈",
    "category": "음식",
    "date": "2026-11-04"
+  },
+  {
+   "keyword": "과일 꿈",
+   "category": "음식",
+   "date": "2026-11-05"
+  },
+  {
+   "keyword": "복숭아 꿈",
+   "category": "음식",
+   "date": "2026-11-05"
+  },
+  {
+   "keyword": "사과 꿈",
+   "category": "음식",
+   "date": "2026-11-05"
   }
  ],
  "failed": [],
