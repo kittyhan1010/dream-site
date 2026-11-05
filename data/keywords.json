@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "생선 꿈",
-   "category": "음식",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "계란 꿈",
-   "category": "음식",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "술 꿈",
-   "category": "음식",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "라면 꿈",
    "category": "음식",
    "source": "suggest",
@@ -8129,6 +8111,30 @@
    "category": "음식",
    "source": "related",
    "added": "2026-11-05"
+  },
+  {
+   "keyword": "알 꿈",
+   "category": "음식",
+   "source": "related",
+   "added": "2026-11-06"
+  },
+  {
+   "keyword": "회 먹는 꿈",
+   "category": "음식",
+   "source": "related",
+   "added": "2026-11-06"
+  },
+  {
+   "keyword": "조기 꿈",
+   "category": "음식",
+   "source": "related",
+   "added": "2026-11-06"
+  },
+  {
+   "keyword": "술잔 꿈",
+   "category": "음식",
+   "source": "related",
+   "added": "2026-11-06"
   }
  ],
  "done": [
@@ -8731,6 +8737,21 @@
    "keyword": "포도 꿈",
    "category": "음식",
    "date": "2026-11-05"
+  },
+  {
+   "keyword": "계란 꿈",
+   "category": "음식",
+   "date": "2026-11-06"
+  },
+  {
+   "keyword": "생선 꿈",
+   "category": "음식",
+   "date": "2026-11-06"
+  },
+  {
+   "keyword": "술 꿈",
+   "category": "음식",
+   "date": "2026-11-06"
   }
  ],
  "failed": [],
