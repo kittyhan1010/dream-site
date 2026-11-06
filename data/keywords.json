@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "시험장 꿈",
-   "category": "장소",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "교회 꿈",
-   "category": "장소",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "절 꿈",
-   "category": "장소",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "공항 꿈",
    "category": "장소",
    "source": "suggest",
@@ -8147,6 +8129,30 @@
    "category": "장소",
    "source": "related",
    "added": "2026-11-07"
+  },
+  {
+   "keyword": "기도하는 꿈",
+   "category": "장소",
+   "source": "related",
+   "added": "2026-11-07"
+  },
+  {
+   "keyword": "십자가 꿈",
+   "category": "장소",
+   "source": "related",
+   "added": "2026-11-07"
+  },
+  {
+   "keyword": "합격하는 꿈",
+   "category": "장소",
+   "source": "related",
+   "added": "2026-11-07"
+  },
+  {
+   "keyword": "탑 꿈",
+   "category": "장소",
+   "source": "related",
+   "added": "2026-11-07"
   }
  ],
  "done": [
@@ -8792,6 +8798,21 @@
   },
   {
    "keyword": "화장실 꿈",
+   "category": "장소",
+   "date": "2026-11-07"
+  },
+  {
+   "keyword": "교회 꿈",
+   "category": "장소",
+   "date": "2026-11-07"
+  },
+  {
+   "keyword": "시험장 꿈",
+   "category": "장소",
+   "date": "2026-11-07"
+  },
+  {
+   "keyword": "절 꿈",
    "category": "장소",
    "date": "2026-11-07"
   }
