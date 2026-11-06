@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "군대 꿈",
-   "category": "장소",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "병원 꿈",
-   "category": "장소",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "화장실 꿈",
-   "category": "장소",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "시험장 꿈",
    "category": "장소",
    "source": "suggest",
@@ -8141,6 +8123,30 @@
    "category": "음식",
    "source": "related",
    "added": "2026-11-06"
+  },
+  {
+   "keyword": "군인 꿈",
+   "category": "장소",
+   "source": "related",
+   "added": "2026-11-07"
+  },
+  {
+   "keyword": "수술 꿈",
+   "category": "장소",
+   "source": "related",
+   "added": "2026-11-07"
+  },
+  {
+   "keyword": "주사 맞는 꿈",
+   "category": "장소",
+   "source": "related",
+   "added": "2026-11-07"
+  },
+  {
+   "keyword": "목욕하는 꿈",
+   "category": "장소",
+   "source": "related",
+   "added": "2026-11-07"
   }
  ],
  "done": [
@@ -8773,6 +8779,21 @@
    "keyword": "학교 꿈",
    "category": "장소",
    "date": "2026-11-06"
+  },
+  {
+   "keyword": "군대 꿈",
+   "category": "장소",
+   "date": "2026-11-07"
+  },
+  {
+   "keyword": "병원 꿈",
+   "category": "장소",
+   "date": "2026-11-07"
+  },
+  {
+   "keyword": "화장실 꿈",
+   "category": "장소",
+   "date": "2026-11-07"
   }
  ],
  "failed": [],
