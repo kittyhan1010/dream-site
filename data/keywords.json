@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "다리 꿈",
-   "category": "장소",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "터널 꿈",
-   "category": "장소",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "옛날 집 꿈",
-   "category": "장소",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "시골집 꿈",
    "category": "장소",
    "source": "suggest",
@@ -8153,6 +8135,24 @@
    "category": "장소",
    "source": "related",
    "added": "2026-11-08"
+  },
+  {
+   "keyword": "다리 무너지는 꿈",
+   "category": "장소",
+   "source": "related",
+   "added": "2026-11-08"
+  },
+  {
+   "keyword": "강 건너는 꿈",
+   "category": "장소",
+   "source": "related",
+   "added": "2026-11-08"
+  },
+  {
+   "keyword": "고향 꿈",
+   "category": "장소",
+   "source": "related",
+   "added": "2026-11-08"
   }
  ],
  "done": [
@@ -8828,6 +8828,21 @@
   },
   {
    "keyword": "엘리베이터 꿈",
+   "category": "장소",
+   "date": "2026-11-08"
+  },
+  {
+   "keyword": "다리 꿈",
+   "category": "장소",
+   "date": "2026-11-08"
+  },
+  {
+   "keyword": "터널 꿈",
+   "category": "장소",
+   "date": "2026-11-08"
+  },
+  {
+   "keyword": "옛날 집 꿈",
    "category": "장소",
    "date": "2026-11-08"
   }
