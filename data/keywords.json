@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "공항 꿈",
-   "category": "장소",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "엘리베이터 꿈",
-   "category": "장소",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "계단 꿈",
-   "category": "장소",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "다리 꿈",
    "category": "장소",
    "source": "suggest",
@@ -8153,6 +8135,24 @@
    "category": "장소",
    "source": "related",
    "added": "2026-11-07"
+  },
+  {
+   "keyword": "높은 곳에 올라가는 꿈",
+   "category": "장소",
+   "source": "related",
+   "added": "2026-11-08"
+  },
+  {
+   "keyword": "여권 잃어버리는 꿈",
+   "category": "장소",
+   "source": "related",
+   "added": "2026-11-08"
+  },
+  {
+   "keyword": "갇히는 꿈",
+   "category": "장소",
+   "source": "related",
+   "added": "2026-11-08"
   }
  ],
  "done": [
@@ -8815,6 +8815,21 @@
    "keyword": "절 꿈",
    "category": "장소",
    "date": "2026-11-07"
+  },
+  {
+   "keyword": "계단 꿈",
+   "category": "장소",
+   "date": "2026-11-08"
+  },
+  {
+   "keyword": "공항 꿈",
+   "category": "장소",
+   "date": "2026-11-08"
+  },
+  {
+   "keyword": "엘리베이터 꿈",
+   "category": "장소",
+   "date": "2026-11-08"
   }
  ],
  "failed": [],
