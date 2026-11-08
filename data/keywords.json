@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "날아다니는 꿈",
-   "category": "행동",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "싸우는 꿈",
-   "category": "행동",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "죽는 꿈",
-   "category": "행동",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "도망가는 꿈",
    "category": "행동",
    "source": "suggest",
@@ -8153,6 +8135,12 @@
    "category": "행동",
    "source": "related",
    "added": "2026-11-09"
+  },
+  {
+   "keyword": "화내는 꿈",
+   "category": "행동",
+   "source": "related",
+   "added": "2026-11-09"
   }
  ],
  "done": [
@@ -8858,6 +8846,21 @@
   },
   {
    "keyword": "쫓기는 꿈",
+   "category": "행동",
+   "date": "2026-11-09"
+  },
+  {
+   "keyword": "날아다니는 꿈",
+   "category": "행동",
+   "date": "2026-11-09"
+  },
+  {
+   "keyword": "싸우는 꿈",
+   "category": "행동",
+   "date": "2026-11-09"
+  },
+  {
+   "keyword": "죽는 꿈",
    "category": "행동",
    "date": "2026-11-09"
   }
