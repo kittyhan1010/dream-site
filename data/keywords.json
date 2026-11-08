@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "시골집 꿈",
-   "category": "장소",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "쫓기는 꿈",
-   "category": "행동",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "떨어지는 꿈",
-   "category": "행동",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "날아다니는 꿈",
    "category": "행동",
    "source": "suggest",
@@ -8153,6 +8135,24 @@
    "category": "장소",
    "source": "related",
    "added": "2026-11-08"
+  },
+  {
+   "keyword": "절벽 꿈",
+   "category": "행동",
+   "source": "related",
+   "added": "2026-11-09"
+  },
+  {
+   "keyword": "초가집 꿈",
+   "category": "장소",
+   "source": "related",
+   "added": "2026-11-09"
+  },
+  {
+   "keyword": "숨는 꿈",
+   "category": "행동",
+   "source": "related",
+   "added": "2026-11-09"
   }
  ],
  "done": [
@@ -8845,6 +8845,21 @@
    "keyword": "옛날 집 꿈",
    "category": "장소",
    "date": "2026-11-08"
+  },
+  {
+   "keyword": "떨어지는 꿈",
+   "category": "행동",
+   "date": "2026-11-09"
+  },
+  {
+   "keyword": "시골집 꿈",
+   "category": "장소",
+   "date": "2026-11-09"
+  },
+  {
+   "keyword": "쫓기는 꿈",
+   "category": "행동",
+   "date": "2026-11-09"
   }
  ],
  "failed": [],
