@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "수영하는 꿈",
-   "category": "행동",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "운전하는 꿈",
-   "category": "행동",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "이사하는 꿈",
-   "category": "행동",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "결혼하는 꿈",
    "category": "행동",
    "source": "suggest",
@@ -8141,6 +8123,24 @@
    "category": "행동",
    "source": "related",
    "added": "2026-11-10"
+  },
+  {
+   "keyword": "버스 타는 꿈",
+   "category": "행동",
+   "source": "related",
+   "added": "2026-11-10"
+  },
+  {
+   "keyword": "새집 꿈",
+   "category": "행동",
+   "source": "related",
+   "added": "2026-11-10"
+  },
+  {
+   "keyword": "짐 싸는 꿈",
+   "category": "행동",
+   "source": "related",
+   "added": "2026-11-10"
   }
  ],
  "done": [
@@ -8876,6 +8876,21 @@
   },
   {
    "keyword": "시험 보는 꿈",
+   "category": "행동",
+   "date": "2026-11-10"
+  },
+  {
+   "keyword": "운전하는 꿈",
+   "category": "행동",
+   "date": "2026-11-10"
+  },
+  {
+   "keyword": "이사하는 꿈",
+   "category": "행동",
+   "date": "2026-11-10"
+  },
+  {
+   "keyword": "수영하는 꿈",
    "category": "행동",
    "date": "2026-11-10"
   }
