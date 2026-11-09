@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "도망가는 꿈",
-   "category": "행동",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "시험 보는 꿈",
-   "category": "행동",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "길 잃는 꿈",
-   "category": "행동",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "수영하는 꿈",
    "category": "행동",
    "source": "suggest",
@@ -8141,6 +8123,24 @@
    "category": "행동",
    "source": "related",
    "added": "2026-11-09"
+  },
+  {
+   "keyword": "미로 꿈",
+   "category": "행동",
+   "source": "related",
+   "added": "2026-11-10"
+  },
+  {
+   "keyword": "갈림길 꿈",
+   "category": "행동",
+   "source": "related",
+   "added": "2026-11-10"
+  },
+  {
+   "keyword": "탈출하는 꿈",
+   "category": "행동",
+   "source": "related",
+   "added": "2026-11-10"
   }
  ],
  "done": [
@@ -8863,6 +8863,21 @@
    "keyword": "죽는 꿈",
    "category": "행동",
    "date": "2026-11-09"
+  },
+  {
+   "keyword": "길 잃는 꿈",
+   "category": "행동",
+   "date": "2026-11-10"
+  },
+  {
+   "keyword": "도망가는 꿈",
+   "category": "행동",
+   "date": "2026-11-10"
+  },
+  {
+   "keyword": "시험 보는 꿈",
+   "category": "행동",
+   "date": "2026-11-10"
   }
  ],
  "failed": [],
