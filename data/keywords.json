@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "노래하는 꿈",
-   "category": "행동",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "춤추는 꿈",
-   "category": "행동",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "청소하는 꿈",
-   "category": "행동",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "요리하는 꿈",
    "category": "행동",
    "source": "suggest",
@@ -8147,6 +8129,36 @@
    "category": "행동",
    "source": "related",
    "added": "2026-11-11"
+  },
+  {
+   "keyword": "빗자루 꿈",
+   "category": "행동",
+   "source": "related",
+   "added": "2026-11-11"
+  },
+  {
+   "keyword": "쓰레기 꿈",
+   "category": "행동",
+   "source": "related",
+   "added": "2026-11-11"
+  },
+  {
+   "keyword": "파티하는 꿈",
+   "category": "행동",
+   "source": "related",
+   "added": "2026-11-11"
+  },
+  {
+   "keyword": "공연 보는 꿈",
+   "category": "행동",
+   "source": "related",
+   "added": "2026-11-11"
+  },
+  {
+   "keyword": "박수받는 꿈",
+   "category": "행동",
+   "source": "related",
+   "added": "2026-11-11"
   }
  ],
  "done": [
@@ -8912,6 +8924,21 @@
   },
   {
    "keyword": "키스하는 꿈",
+   "category": "행동",
+   "date": "2026-11-11"
+  },
+  {
+   "keyword": "청소하는 꿈",
+   "category": "행동",
+   "date": "2026-11-11"
+  },
+  {
+   "keyword": "춤추는 꿈",
+   "category": "행동",
+   "date": "2026-11-11"
+  },
+  {
+   "keyword": "노래하는 꿈",
    "category": "행동",
    "date": "2026-11-11"
   }
