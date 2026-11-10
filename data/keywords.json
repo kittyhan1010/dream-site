@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "결혼하는 꿈",
-   "category": "행동",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "이혼하는 꿈",
-   "category": "행동",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "키스하는 꿈",
-   "category": "행동",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "노래하는 꿈",
    "category": "행동",
    "source": "suggest",
@@ -8141,6 +8123,30 @@
    "category": "행동",
    "source": "related",
    "added": "2026-11-10"
+  },
+  {
+   "keyword": "웨딩드레스 꿈",
+   "category": "행동",
+   "source": "related",
+   "added": "2026-11-11"
+  },
+  {
+   "keyword": "결혼식장 꿈",
+   "category": "행동",
+   "source": "related",
+   "added": "2026-11-11"
+  },
+  {
+   "keyword": "바람피우는 꿈",
+   "category": "행동",
+   "source": "related",
+   "added": "2026-11-11"
+  },
+  {
+   "keyword": "포옹하는 꿈",
+   "category": "행동",
+   "source": "related",
+   "added": "2026-11-11"
   }
  ],
  "done": [
@@ -8893,6 +8899,21 @@
    "keyword": "수영하는 꿈",
    "category": "행동",
    "date": "2026-11-10"
+  },
+  {
+   "keyword": "결혼하는 꿈",
+   "category": "행동",
+   "date": "2026-11-11"
+  },
+  {
+   "keyword": "이혼하는 꿈",
+   "category": "행동",
+   "date": "2026-11-11"
+  },
+  {
+   "keyword": "키스하는 꿈",
+   "category": "행동",
+   "date": "2026-11-11"
   }
  ],
  "failed": [],
