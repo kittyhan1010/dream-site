@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "장례식 꿈",
-   "category": "사건",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "출산 꿈",
-   "category": "사건",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "합격 꿈",
-   "category": "사건",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "이별 꿈",
    "category": "사건",
    "source": "suggest",
@@ -8159,6 +8141,36 @@
    "category": "사건",
    "source": "related",
    "added": "2026-11-12"
+  },
+  {
+   "keyword": "상여 꿈",
+   "category": "사건",
+   "source": "related",
+   "added": "2026-11-12"
+  },
+  {
+   "keyword": "제사 지내는 꿈",
+   "category": "사건",
+   "source": "related",
+   "added": "2026-11-12"
+  },
+  {
+   "keyword": "산부인과 꿈",
+   "category": "사건",
+   "source": "related",
+   "added": "2026-11-12"
+  },
+  {
+   "keyword": "승진하는 꿈",
+   "category": "사건",
+   "source": "related",
+   "added": "2026-11-12"
+  },
+  {
+   "keyword": "1등 하는 꿈",
+   "category": "사건",
+   "source": "related",
+   "added": "2026-11-12"
   }
  ],
  "done": [
@@ -8954,6 +8966,21 @@
   },
   {
    "keyword": "전쟁 꿈",
+   "category": "사건",
+   "date": "2026-11-12"
+  },
+  {
+   "keyword": "장례식 꿈",
+   "category": "사건",
+   "date": "2026-11-12"
+  },
+  {
+   "keyword": "출산 꿈",
+   "category": "사건",
+   "date": "2026-11-12"
+  },
+  {
+   "keyword": "합격 꿈",
    "category": "사건",
    "date": "2026-11-12"
   }
