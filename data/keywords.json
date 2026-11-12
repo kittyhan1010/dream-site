@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "이별 꿈",
-   "category": "사건",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "도둑 꿈",
-   "category": "사건",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "물에 빠지는 꿈",
-   "category": "사건",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "살인 꿈",
    "category": "사건",
    "source": "suggest",
@@ -8171,6 +8153,24 @@
    "category": "사건",
    "source": "related",
    "added": "2026-11-12"
+  },
+  {
+   "keyword": "경찰 꿈",
+   "category": "사건",
+   "source": "related",
+   "added": "2026-11-13"
+  },
+  {
+   "keyword": "물에 빠진 사람 구하는 꿈",
+   "category": "사건",
+   "source": "related",
+   "added": "2026-11-13"
+  },
+  {
+   "keyword": "재회하는 꿈",
+   "category": "사건",
+   "source": "related",
+   "added": "2026-11-13"
   }
  ],
  "done": [
@@ -8983,6 +8983,21 @@
    "keyword": "합격 꿈",
    "category": "사건",
    "date": "2026-11-12"
+  },
+  {
+   "keyword": "도둑 꿈",
+   "category": "사건",
+   "date": "2026-11-13"
+  },
+  {
+   "keyword": "물에 빠지는 꿈",
+   "category": "사건",
+   "date": "2026-11-13"
+  },
+  {
+   "keyword": "이별 꿈",
+   "category": "사건",
+   "date": "2026-11-13"
   }
  ],
  "failed": [],
