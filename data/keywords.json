@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "살인 꿈",
-   "category": "사건",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "감옥 꿈",
-   "category": "사건",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
-   "keyword": "납치 꿈",
-   "category": "사건",
-   "source": "suggest",
-   "added": "2026-09-28"
-  },
-  {
    "keyword": "초록뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -8171,6 +8153,12 @@
    "category": "사건",
    "source": "related",
    "added": "2026-11-13"
+  },
+  {
+   "keyword": "재판 꿈",
+   "category": "사건",
+   "source": "related",
+   "added": "2026-11-13"
   }
  ],
  "done": [
@@ -8996,6 +8984,21 @@
   },
   {
    "keyword": "이별 꿈",
+   "category": "사건",
+   "date": "2026-11-13"
+  },
+  {
+   "keyword": "납치 꿈",
+   "category": "사건",
+   "date": "2026-11-13"
+  },
+  {
+   "keyword": "살인 꿈",
+   "category": "사건",
+   "date": "2026-11-13"
+  },
+  {
+   "keyword": "감옥 꿈",
    "category": "사건",
    "date": "2026-11-13"
   }
