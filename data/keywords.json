@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "초록뱀 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "엄청 큰 뱀 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "검은뱀 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
    "keyword": "초록색 뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -8159,6 +8141,18 @@
    "category": "사건",
    "source": "related",
    "added": "2026-11-13"
+  },
+  {
+   "keyword": "뱀 허물 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-14"
+  },
+  {
+   "keyword": "이무기 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-14"
   }
  ],
  "done": [
@@ -9001,6 +8995,21 @@
    "keyword": "감옥 꿈",
    "category": "사건",
    "date": "2026-11-13"
+  },
+  {
+   "keyword": "초록뱀 꿈",
+   "category": "동물",
+   "date": "2026-11-14"
+  },
+  {
+   "keyword": "엄청 큰 뱀 꿈",
+   "category": "동물",
+   "date": "2026-11-14"
+  },
+  {
+   "keyword": "검은뱀 꿈",
+   "category": "동물",
+   "date": "2026-11-14"
   }
  ],
  "failed": [],
