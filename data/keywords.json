@@ -7,31 +7,13 @@
    "added": "2026-10-13"
   },
   {
-   "keyword": "흰색 뱀 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
    "keyword": "큰 뱀 꿈",
    "category": "동물",
    "source": "suggest",
    "added": "2026-10-13"
   },
   {
-   "keyword": "새끼 뱀 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
    "keyword": "뱀 나오는 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "뱀 죽이는 꿈",
    "category": "동물",
    "source": "suggest",
    "added": "2026-10-13"
@@ -8153,6 +8135,24 @@
    "category": "동물",
    "source": "related",
    "added": "2026-11-14"
+  },
+  {
+   "keyword": "백사 태몽 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-14"
+  },
+  {
+   "keyword": "뱀 알 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-14"
+  },
+  {
+   "keyword": "뱀에게 물리는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-14"
   }
  ],
  "done": [
@@ -9008,6 +9008,21 @@
   },
   {
    "keyword": "검은뱀 꿈",
+   "category": "동물",
+   "date": "2026-11-14"
+  },
+  {
+   "keyword": "흰색 뱀 꿈",
+   "category": "동물",
+   "date": "2026-11-14"
+  },
+  {
+   "keyword": "새끼 뱀 꿈",
+   "category": "동물",
+   "date": "2026-11-14"
+  },
+  {
+   "keyword": "뱀 죽이는 꿈",
    "category": "동물",
    "date": "2026-11-14"
   }
