@@ -19,18 +19,6 @@
    "added": "2026-10-13"
   },
   {
-   "keyword": "뱀 잡는 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "수많은 뱀 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
    "keyword": "꿈해몽 뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -38,12 +26,6 @@
   },
   {
    "keyword": "검정 뱀 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "붉은 뱀 꿈",
    "category": "동물",
    "source": "suggest",
    "added": "2026-10-13"
@@ -8357,6 +8339,18 @@
    "category": "동물",
    "source": "related",
    "added": "2026-11-14"
+  },
+  {
+   "keyword": "황금색 뱀 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-15"
+  },
+  {
+   "keyword": "뱀 굴 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-15"
   }
  ],
  "done": [
@@ -9229,6 +9223,21 @@
    "keyword": "뱀 죽이는 꿈",
    "category": "동물",
    "date": "2026-11-14"
+  },
+  {
+   "keyword": "뱀 잡는 꿈",
+   "category": "동물",
+   "date": "2026-11-15"
+  },
+  {
+   "keyword": "붉은 뱀 꿈",
+   "category": "동물",
+   "date": "2026-11-15"
+  },
+  {
+   "keyword": "수많은 뱀 꿈",
+   "category": "동물",
+   "date": "2026-11-15"
   }
  ],
  "failed": [],
