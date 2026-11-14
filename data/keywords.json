@@ -43,24 +43,6 @@
    "added": "2026-10-13"
   },
   {
-   "keyword": "아기돼지 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "황금돼지 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "검은 돼지 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
    "keyword": "돼지 새끼 꿈",
    "category": "동물",
    "source": "suggest",
@@ -8405,6 +8387,24 @@
    "category": "동물",
    "source": "related",
    "added": "2026-11-15"
+  },
+  {
+   "keyword": "돼지 새끼 낳는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-15"
+  },
+  {
+   "keyword": "흰 돼지 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-15"
+  },
+  {
+   "keyword": "돼지에게 물리는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-15"
   }
  ],
  "done": [
@@ -9290,6 +9290,21 @@
   },
   {
    "keyword": "수많은 뱀 꿈",
+   "category": "동물",
+   "date": "2026-11-15"
+  },
+  {
+   "keyword": "아기돼지 꿈",
+   "category": "동물",
+   "date": "2026-11-15"
+  },
+  {
+   "keyword": "황금돼지 꿈",
+   "category": "동물",
+   "date": "2026-11-15"
+  },
+  {
+   "keyword": "검은 돼지 꿈",
    "category": "동물",
    "date": "2026-11-15"
   }
