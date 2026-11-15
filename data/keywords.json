@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "초록색 뱀 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "큰 뱀 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "뱀 나오는 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
    "keyword": "꿈해몽 뱀 꿈",
    "category": "동물",
    "source": "suggest",
@@ -8405,6 +8387,30 @@
    "category": "동물",
    "source": "related",
    "added": "2026-11-15"
+  },
+  {
+   "keyword": "파란 뱀 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-16"
+  },
+  {
+   "keyword": "누런 뱀 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-16"
+  },
+  {
+   "keyword": "이불 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-16"
+  },
+  {
+   "keyword": "뱀 구멍 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-16"
   }
  ],
  "done": [
@@ -9307,6 +9313,21 @@
    "keyword": "검은 돼지 꿈",
    "category": "동물",
    "date": "2026-11-15"
+  },
+  {
+   "keyword": "초록색 뱀 꿈",
+   "category": "동물",
+   "date": "2026-11-16"
+  },
+  {
+   "keyword": "큰 뱀 꿈",
+   "category": "동물",
+   "date": "2026-11-16"
+  },
+  {
+   "keyword": "뱀 나오는 꿈",
+   "category": "동물",
+   "date": "2026-11-16"
   }
  ],
  "failed": [],
