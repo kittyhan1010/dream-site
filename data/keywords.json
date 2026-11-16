@@ -1,18 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "검정색 뱀 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "돼지 새끼 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
    "keyword": "범일동 용 꿈",
    "category": "동물",
    "source": "suggest",
@@ -8567,6 +8555,30 @@
    "category": "동물",
    "source": "related",
    "added": "2026-11-16"
+  },
+  {
+   "keyword": "뱀 키우는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-17"
+  },
+  {
+   "keyword": "뱀이 몸을 감는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-17"
+  },
+  {
+   "keyword": "돼지 사는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-17"
+  },
+  {
+   "keyword": "돼지 낳는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-17"
   }
  ],
  "done": [
@@ -9499,6 +9511,16 @@
    "keyword": "검은색 뱀 꿈",
    "category": "동물",
    "date": "2026-11-16"
+  },
+  {
+   "keyword": "검정색 뱀 꿈",
+   "category": "동물",
+   "date": "2026-11-17"
+  },
+  {
+   "keyword": "돼지 새끼 꿈",
+   "category": "동물",
+   "date": "2026-11-17"
   }
  ],
  "failed": [],
