@@ -7,12 +7,6 @@
    "added": "2026-10-13"
   },
   {
-   "keyword": "태몽 용 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
    "keyword": "부산 용 꿈",
    "category": "동물",
    "source": "suggest",
@@ -8579,6 +8573,18 @@
    "category": "동물",
    "source": "related",
    "added": "2026-11-17"
+  },
+  {
+   "keyword": "태몽 호랑이 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-17"
+  },
+  {
+   "keyword": "황룡 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-17"
   }
  ],
  "done": [
@@ -9519,6 +9525,11 @@
   },
   {
    "keyword": "돼지 새끼 꿈",
+   "category": "동물",
+   "date": "2026-11-17"
+  },
+  {
+   "keyword": "태몽 용 꿈",
    "category": "동물",
    "date": "2026-11-17"
   }
