@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "하얀 개 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "하얀 큰 개 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "큰 개 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
    "keyword": "죽은 개 꿈",
    "category": "동물",
    "source": "suggest",
@@ -9749,6 +9731,21 @@
   },
   {
    "keyword": "검은 큰 개 꿈",
+   "category": "동물",
+   "date": "2026-11-19"
+  },
+  {
+   "keyword": "하얀 개 꿈",
+   "category": "동물",
+   "date": "2026-11-19"
+  },
+  {
+   "keyword": "하얀 큰 개 꿈",
+   "category": "동물",
+   "date": "2026-11-19"
+  },
+  {
+   "keyword": "큰 개 꿈",
    "category": "동물",
    "date": "2026-11-19"
   }
