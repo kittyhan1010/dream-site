@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "죽은 개 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "청주 개 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "개 고양이 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
    "keyword": "개 3마리 꿈",
    "category": "동물",
    "source": "suggest",
@@ -8873,6 +8855,18 @@
    "category": "동물",
    "source": "related",
    "added": "2026-11-19"
+  },
+  {
+   "keyword": "반려견 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-20"
+  },
+  {
+   "keyword": "고양이에게 할퀴는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-20"
   }
  ],
  "done": [
@@ -9880,6 +9874,16 @@
    "keyword": "큰 개 꿈",
    "category": "동물",
    "date": "2026-11-19"
+  },
+  {
+   "keyword": "죽은 개 꿈",
+   "category": "동물",
+   "date": "2026-11-20"
+  },
+  {
+   "keyword": "개 고양이 꿈",
+   "category": "동물",
+   "date": "2026-11-20"
   }
  ],
  "failed": [
@@ -9900,6 +9904,12 @@
    "category": "동물",
    "date": "2026-11-18",
    "reason": "지명+용 꿈: 꿈 변형이 아니라 용 꿈 페이지와 내용이 겹침"
+  },
+  {
+   "keyword": "청주 개 꿈",
+   "category": "동물",
+   "date": "2026-11-20",
+   "reason": "검색 자동완성 잡음(지명/술 이름+개 꿈)으로 보여 꿈해몽 원고로 쓸 의미가 없음"
   }
  ],
  "expanded": [
