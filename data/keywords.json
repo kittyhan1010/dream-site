@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "개 3마리 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "개 오줌 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "죽은 강아지 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
    "keyword": "새끼 강아지 꿈",
    "category": "동물",
    "source": "suggest",
@@ -8867,6 +8849,18 @@
    "category": "동물",
    "source": "related",
    "added": "2026-11-20"
+  },
+  {
+   "keyword": "누런 개 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-20"
+  },
+  {
+   "keyword": "개똥 밟는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-20"
   }
  ],
  "done": [
@@ -9882,6 +9876,21 @@
   },
   {
    "keyword": "개 고양이 꿈",
+   "category": "동물",
+   "date": "2026-11-20"
+  },
+  {
+   "keyword": "죽은 강아지 꿈",
+   "category": "동물",
+   "date": "2026-11-20"
+  },
+  {
+   "keyword": "개 3마리 꿈",
+   "category": "동물",
+   "date": "2026-11-20"
+  },
+  {
+   "keyword": "개 오줌 꿈",
    "category": "동물",
    "date": "2026-11-20"
   }
