@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "흰색 강아지 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "하얀 강아지 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "아기강아지 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
    "keyword": "키우던 강아지 꿈",
    "category": "동물",
    "source": "suggest",
@@ -8957,6 +8939,24 @@
    "category": "동물",
    "source": "related",
    "added": "2026-11-21"
+  },
+  {
+   "keyword": "강아지가 따라오는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-21"
+  },
+  {
+   "keyword": "강아지 분양받는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-21"
+  },
+  {
+   "keyword": "강아지가 물에 빠지는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-21"
   }
  ],
  "done": [
@@ -10002,6 +10002,21 @@
   },
   {
    "keyword": "흰 강아지 꿈",
+   "category": "동물",
+   "date": "2026-11-21"
+  },
+  {
+   "keyword": "아기강아지 꿈",
+   "category": "동물",
+   "date": "2026-11-21"
+  },
+  {
+   "keyword": "하얀 강아지 꿈",
+   "category": "동물",
+   "date": "2026-11-21"
+  },
+  {
+   "keyword": "흰색 강아지 꿈",
    "category": "동물",
    "date": "2026-11-21"
   }
