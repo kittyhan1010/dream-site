@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "강아지 낳는 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "귀여운 강아지 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "갈색 강아지 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
    "keyword": "강아지 꿈해몽똥싼 꿈",
    "category": "동물",
    "source": "suggest",
@@ -9155,6 +9137,30 @@
    "category": "동물",
    "source": "related",
    "added": "2026-11-22"
+  },
+  {
+   "keyword": "강아지 안는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-22"
+  },
+  {
+   "keyword": "강아지 선물받는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-22"
+  },
+  {
+   "keyword": "누렁이 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-22"
+  },
+  {
+   "keyword": "강아지 따라오는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-22"
   }
  ],
  "done": [
@@ -10230,6 +10236,21 @@
   },
   {
    "keyword": "키우던 강아지 꿈",
+   "category": "동물",
+   "date": "2026-11-22"
+  },
+  {
+   "keyword": "강아지 낳는 꿈",
+   "category": "동물",
+   "date": "2026-11-22"
+  },
+  {
+   "keyword": "귀여운 강아지 꿈",
+   "category": "동물",
+   "date": "2026-11-22"
+  },
+  {
+   "keyword": "갈색 강아지 꿈",
    "category": "동물",
    "date": "2026-11-22"
   }
