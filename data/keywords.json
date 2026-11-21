@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "키우던 강아지 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "강아지 키우는 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "강아지 오줌 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
    "keyword": "강아지 낳는 꿈",
    "category": "동물",
    "source": "suggest",
@@ -9155,6 +9137,24 @@
    "category": "동물",
    "source": "related",
    "added": "2026-11-21"
+  },
+  {
+   "keyword": "강아지 배변 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-22"
+  },
+  {
+   "keyword": "강아지 훈련시키는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-22"
+  },
+  {
+   "keyword": "반려견 다시 만나는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-22"
   }
  ],
  "done": [
@@ -10217,6 +10217,21 @@
    "keyword": "흰색 강아지 꿈",
    "category": "동물",
    "date": "2026-11-21"
+  },
+  {
+   "keyword": "강아지 오줌 꿈",
+   "category": "동물",
+   "date": "2026-11-22"
+  },
+  {
+   "keyword": "강아지 키우는 꿈",
+   "category": "동물",
+   "date": "2026-11-22"
+  },
+  {
+   "keyword": "키우던 강아지 꿈",
+   "category": "동물",
+   "date": "2026-11-22"
   }
  ],
  "failed": [
