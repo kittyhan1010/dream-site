@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "강아지 꿈해몽똥싼 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "강아지 꿈해몽다치는 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "새끼고양이 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
    "keyword": "아기고양이 꿈",
    "category": "동물",
    "source": "suggest",
@@ -9323,6 +9305,18 @@
    "category": "동물",
    "source": "related",
    "added": "2026-11-22"
+  },
+  {
+   "keyword": "개 똥 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-23"
+  },
+  {
+   "keyword": "똥 밟는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-23"
   }
  ],
  "done": [
@@ -10415,6 +10409,21 @@
    "keyword": "갈색 강아지 꿈",
    "category": "동물",
    "date": "2026-11-22"
+  },
+  {
+   "keyword": "강아지 꿈해몽똥싼 꿈",
+   "category": "동물",
+   "date": "2026-11-23"
+  },
+  {
+   "keyword": "강아지 꿈해몽다치는 꿈",
+   "category": "동물",
+   "date": "2026-11-23"
+  },
+  {
+   "keyword": "새끼고양이 꿈",
+   "category": "동물",
+   "date": "2026-11-23"
   }
  ],
  "failed": [
