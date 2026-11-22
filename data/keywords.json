@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "아기고양이 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "검은고양이 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "하얀 고양이 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
    "keyword": "흰고양이 꿈",
    "category": "동물",
    "source": "suggest",
@@ -9317,6 +9299,24 @@
    "category": "동물",
    "source": "related",
    "added": "2026-11-23"
+  },
+  {
+   "keyword": "노란 고양이 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-23"
+  },
+  {
+   "keyword": "고양이 새끼 낳는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-23"
+  },
+  {
+   "keyword": "고양이 안는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-23"
   }
  ],
  "done": [
@@ -10422,6 +10422,21 @@
   },
   {
    "keyword": "새끼고양이 꿈",
+   "category": "동물",
+   "date": "2026-11-23"
+  },
+  {
+   "keyword": "검은고양이 꿈",
+   "category": "동물",
+   "date": "2026-11-23"
+  },
+  {
+   "keyword": "아기고양이 꿈",
+   "category": "동물",
+   "date": "2026-11-23"
+  },
+  {
+   "keyword": "하얀 고양이 꿈",
    "category": "동물",
    "date": "2026-11-23"
   }
