@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "흰고양이 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "큰 고양이 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "회색 고양이 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
    "keyword": "고양이 죽이는 꿈",
    "category": "동물",
    "source": "suggest",
@@ -9527,6 +9509,42 @@
    "category": "동물",
    "source": "related",
    "added": "2026-11-23"
+  },
+  {
+   "keyword": "고양이 쫓기는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-24"
+  },
+  {
+   "keyword": "고양이 등에 타는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-24"
+  },
+  {
+   "keyword": "줄무늬 고양이 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-24"
+  },
+  {
+   "keyword": "고양이 키우는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-24"
+  },
+  {
+   "keyword": "흰고양이 물리는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-24"
+  },
+  {
+   "keyword": "고양이 밥 주는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-24"
   }
  ],
  "done": [
@@ -10649,6 +10667,21 @@
    "keyword": "하얀 고양이 꿈",
    "category": "동물",
    "date": "2026-11-23"
+  },
+  {
+   "keyword": "큰 고양이 꿈",
+   "category": "동물",
+   "date": "2026-11-24"
+  },
+  {
+   "keyword": "회색 고양이 꿈",
+   "category": "동물",
+   "date": "2026-11-24"
+  },
+  {
+   "keyword": "흰고양이 꿈",
+   "category": "동물",
+   "date": "2026-11-24"
   }
  ],
  "failed": [
