@@ -1,24 +1,6 @@
 {
  "queue": [
   {
-   "keyword": "고양이 입양 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "강아지 고양이 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "고양이 꿈해몽 쫒기는 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
    "keyword": "고양이 꿈해몽 도망가는 꿈",
    "category": "동물",
    "source": "suggest",
@@ -9707,6 +9689,12 @@
    "category": "동물",
    "source": "related",
    "added": "2026-11-24"
+  },
+  {
+   "keyword": "길고양이 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-25"
   }
  ],
  "done": [
@@ -10859,6 +10847,21 @@
    "keyword": "고양이 죽이는 꿈",
    "category": "동물",
    "date": "2026-11-24"
+  },
+  {
+   "keyword": "강아지 고양이 꿈",
+   "category": "동물",
+   "date": "2026-11-25"
+  },
+  {
+   "keyword": "고양이 꿈해몽 쫒기는 꿈",
+   "category": "동물",
+   "date": "2026-11-25"
+  },
+  {
+   "keyword": "고양이 입양 꿈",
+   "category": "동물",
+   "date": "2026-11-25"
   }
  ],
  "failed": [
