@@ -8221,6 +8221,84 @@
    "added": "2026-11-25"
   },
   {
+   "keyword": "검은 쥐 를 죽이는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-11-27"
+  },
+  {
+   "keyword": "검은 쥐 를 잡는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-11-27"
+  },
+  {
+   "keyword": "검은 쥐 가 나오는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-11-27"
+  },
+  {
+   "keyword": "새끼 쥐 죽이는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-11-27"
+  },
+  {
+   "keyword": "새끼쥐 잡는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-11-27"
+  },
+  {
+   "keyword": "새끼 쥐 나오는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-11-27"
+  },
+  {
+   "keyword": "새끼 쥐를 죽이는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-11-27"
+  },
+  {
+   "keyword": "죽은 쥐 가 나오는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-11-27"
+  },
+  {
+   "keyword": "죽은 쥐 를 보는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-11-27"
+  },
+  {
+   "keyword": "죽은 쥐 버리는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-11-27"
+  },
+  {
+   "keyword": "쥐가 죽는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-11-27"
+  },
+  {
+   "keyword": "하얀 쥐 나오는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-11-27"
+  },
+  {
+   "keyword": "하얀 쥐를 잡는 꿈",
+   "category": "동물",
+   "source": "suggest",
+   "added": "2026-11-27"
+  },
+  {
    "keyword": "결혼한 사람 꿈",
    "category": "사람",
    "source": "seed",
@@ -11192,6 +11270,10 @@
   "고양이 입양",
   "고양이 꿈해몽 도망가는",
   "고양이꿈해몽 죽는",
-  "작은 쥐"
+  "작은 쥐",
+  "검은 쥐",
+  "새끼 쥐",
+  "죽은 쥐",
+  "하얀 쥐"
  ]
 }
