@@ -7,18 +7,6 @@
    "added": "2026-10-13"
   },
   {
-   "keyword": "새끼 쥐 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
-   "keyword": "검은 쥐 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-13"
-  },
-  {
    "keyword": "죽은 쥐 꿈",
    "category": "동물",
    "source": "suggest",
@@ -9743,6 +9731,12 @@
    "category": "동물",
    "source": "related",
    "added": "2026-11-26"
+  },
+  {
+   "keyword": "쥐 잡는 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-27"
   }
  ],
  "done": [
@@ -10925,6 +10919,16 @@
    "keyword": "작은 쥐 꿈",
    "category": "동물",
    "date": "2026-11-26"
+  },
+  {
+   "keyword": "검은 쥐 꿈",
+   "category": "동물",
+   "date": "2026-11-27"
+  },
+  {
+   "keyword": "새끼 쥐 꿈",
+   "category": "동물",
+   "date": "2026-11-27"
   }
  ],
  "failed": [
