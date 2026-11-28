@@ -7,18 +7,6 @@
    "added": "2026-10-13"
   },
   {
-   "keyword": "어항 물고기 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-14"
-  },
-  {
-   "keyword": "황금물고기 꿈",
-   "category": "동물",
-   "source": "suggest",
-   "added": "2026-10-14"
-  },
-  {
    "keyword": "작은 물고기 꿈",
    "category": "동물",
    "source": "suggest",
@@ -9917,6 +9905,18 @@
    "category": "동물",
    "source": "related",
    "added": "2026-11-28"
+  },
+  {
+   "keyword": "금붕어 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-29"
+  },
+  {
+   "keyword": "열대어 꿈",
+   "category": "동물",
+   "source": "related",
+   "added": "2026-11-29"
   }
  ],
  "done": [
@@ -11139,6 +11139,16 @@
    "keyword": "죽은 물고기 꿈",
    "category": "동물",
    "date": "2026-11-28"
+  },
+  {
+   "keyword": "어항 물고기 꿈",
+   "category": "동물",
+   "date": "2026-11-29"
+  },
+  {
+   "keyword": "황금물고기 꿈",
+   "category": "동물",
+   "date": "2026-11-29"
   }
  ],
  "failed": [
